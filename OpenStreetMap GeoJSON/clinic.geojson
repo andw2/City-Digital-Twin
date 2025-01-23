@@ -1,0 +1,4907 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-01-21T16:41:15Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28713190",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1619",
+        "addr:street": "Queen Street East",
+        "amenity": "clinic",
+        "building": "yes",
+        "building:colour": "beige",
+        "building:levels": "2",
+        "healthcare": "clinic",
+        "name": "East End Community Health Centre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.3163977,
+              43.6662887
+            ],
+            [
+              -79.3163161,
+              43.6660916
+            ],
+            [
+              -79.3157983,
+              43.6662037
+            ],
+            [
+              -79.3158799,
+              43.6664008
+            ],
+            [
+              -79.3163977,
+              43.6662887
+            ]
+          ]
+        ]
+      },
+      "id": "way/28713190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/33405960",
+        "addr:city": "Toronto",
+        "addr:housenumber": "410",
+        "addr:street": "Sherbourne Street",
+        "amenity": "clinic",
+        "building": "commercial",
+        "healthcare": "clinic",
+        "name": "St. Michael's Hospital - Community Mental Health Service"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.3742959,
+              43.6644893
+            ],
+            [
+              -79.3738676,
+              43.6645801
+            ],
+            [
+              -79.3740143,
+              43.6649418
+            ],
+            [
+              -79.3744425,
+              43.6648509
+            ],
+            [
+              -79.3742959,
+              43.6644893
+            ]
+          ]
+        ]
+      },
+      "id": "way/33405960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/33405971",
+        "addr:city": "Toronto",
+        "addr:housenumber": "333",
+        "addr:street": "Sherbourne Street",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Sherbourne Health Centre",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.3725389,
+              43.662487
+            ],
+            [
+              -79.3724344,
+              43.6622285
+            ],
+            [
+              -79.3720626,
+              43.6623058
+            ],
+            [
+              -79.3719568,
+              43.6620396
+            ],
+            [
+              -79.3717789,
+              43.6620766
+            ],
+            [
+              -79.3718756,
+              43.6623198
+            ],
+            [
+              -79.3719228,
+              43.66231
+            ],
+            [
+              -79.3719325,
+              43.6623339
+            ],
+            [
+              -79.3720379,
+              43.6625963
+            ],
+            [
+              -79.3720551,
+              43.6626391
+            ],
+            [
+              -79.3725414,
+              43.6625334
+            ],
+            [
+              -79.3725246,
+              43.6624907
+            ],
+            [
+              -79.3725389,
+              43.662487
+            ]
+          ]
+        ]
+      },
+      "id": "way/33405971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/43806455",
+        "addr:city": "North York",
+        "addr:housenumber": "175",
+        "addr:street": "Brentcliffe Road",
+        "amenity": "clinic",
+        "building": "hospital",
+        "emergency": "no",
+        "healthcare": "clinic",
+        "name": "Bellwood Health Sciences"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.3656013,
+              43.7196477
+            ],
+            [
+              -79.3654278,
+              43.7197521
+            ],
+            [
+              -79.3658507,
+              43.7200828
+            ],
+            [
+              -79.3661596,
+              43.7198762
+            ],
+            [
+              -79.366104,
+              43.7198314
+            ],
+            [
+              -79.3663172,
+              43.7197782
+            ],
+            [
+              -79.3664462,
+              43.7197953
+            ],
+            [
+              -79.3664646,
+              43.7197496
+            ],
+            [
+              -79.3663909,
+              43.7197401
+            ],
+            [
+              -79.3663751,
+              43.7196659
+            ],
+            [
+              -79.366383,
+              43.7195955
+            ],
+            [
+              -79.3664778,
+              43.7195099
+            ],
+            [
+              -79.3664489,
+              43.7194775
+            ],
+            [
+              -79.3664699,
+              43.7194585
+            ],
+            [
+              -79.3663725,
+              43.7193748
+            ],
+            [
+              -79.3663462,
+              43.7193957
+            ],
+            [
+              -79.3662698,
+              43.7193253
+            ],
+            [
+              -79.3662224,
+              43.7194452
+            ],
+            [
+              -79.3662488,
+              43.7194642
+            ],
+            [
+              -79.3661882,
+              43.7195631
+            ],
+            [
+              -79.3661672,
+              43.719624
+            ],
+            [
+              -79.3661593,
+              43.7197039
+            ],
+            [
+              -79.3660261,
+              43.7196896
+            ],
+            [
+              -79.3660195,
+              43.7197207
+            ],
+            [
+              -79.3659628,
+              43.7197225
+            ],
+            [
+              -79.3658187,
+              43.7198141
+            ],
+            [
+              -79.3656013,
+              43.7196477
+            ]
+          ]
+        ]
+      },
+      "id": "way/43806455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/76699271",
+        "addr:city": "Toronto",
+        "addr:housenumber": "168",
+        "addr:street": "Bathurst Street",
+        "amenity": "clinic",
+        "building": "civic",
+        "building:levels": "3",
+        "healthcare": "clinic",
+        "name": "Parkdale Queen West Community Health Centre",
+        "opendata:type": "115001",
+        "source": "yahoo",
+        "walk-in": "no",
+        "website": "https://pqwchc.org/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4040241,
+              43.646756
+            ],
+            [
+              -79.4044336,
+              43.6466806
+            ],
+            [
+              -79.4043475,
+              43.6464357
+            ],
+            [
+              -79.403938,
+              43.646511
+            ],
+            [
+              -79.4040241,
+              43.646756
+            ]
+          ]
+        ]
+      },
+      "id": "way/76699271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/85543475",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1229",
+        "addr:province": "ON",
+        "addr:street": "Queen Street West",
+        "amenity": "clinic",
+        "building": "yes",
+        "building:colour": "red",
+        "building:levels": "3",
+        "building:material": "brick",
+        "healthcare": "clinic",
+        "name": "Parkdale Queen West Community Health Centre",
+        "opening_hours": "Mo,Tu,Th 10:00-18:00; We 13:00-18:00; Fr 09:00-17:00",
+        "website": "https://pqwchc.org/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4291748,
+              43.6420105
+            ],
+            [
+              -79.4295406,
+              43.6419389
+            ],
+            [
+              -79.4295529,
+              43.6419348
+            ],
+            [
+              -79.4295631,
+              43.6419281
+            ],
+            [
+              -79.429569,
+              43.6419205
+            ],
+            [
+              -79.4295719,
+              43.6419116
+            ],
+            [
+              -79.4295715,
+              43.6419025
+            ],
+            [
+              -79.4295675,
+              43.6418939
+            ],
+            [
+              -79.4295583,
+              43.6418861
+            ],
+            [
+              -79.4295467,
+              43.6418808
+            ],
+            [
+              -79.4295587,
+              43.6418666
+            ],
+            [
+              -79.4295731,
+              43.6418496
+            ],
+            [
+              -79.4297393,
+              43.641849
+            ],
+            [
+              -79.4296788,
+              43.6416893
+            ],
+            [
+              -79.4296476,
+              43.6416957
+            ],
+            [
+              -79.4296379,
+              43.6416717
+            ],
+            [
+              -79.4293095,
+              43.6417376
+            ],
+            [
+              -79.4293316,
+              43.6417929
+            ],
+            [
+              -79.4292555,
+              43.6418886
+            ],
+            [
+              -79.4291355,
+              43.6419142
+            ],
+            [
+              -79.4291748,
+              43.6420105
+            ]
+          ]
+        ]
+      },
+      "id": "way/85543475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122198949",
+        "amenity": "clinic",
+        "building": "yes",
+        "building:colour": "red",
+        "building:levels": "4",
+        "building:material": "brick",
+        "healthcare": "clinic",
+        "name": "Bochner Eye Institute",
+        "roof:colour": "black",
+        "source": "Bing",
+        "website": "https://www.bochner.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.3977375,
+              43.6696271
+            ],
+            [
+              -79.3978865,
+              43.6695915
+            ],
+            [
+              -79.3978012,
+              43.6694047
+            ],
+            [
+              -79.3976522,
+              43.6694403
+            ],
+            [
+              -79.3977375,
+              43.6696271
+            ]
+          ]
+        ]
+      },
+      "id": "way/122198949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122481106",
+        "addr:city": "Toronto",
+        "amenity": "clinic",
+        "building": "retail",
+        "healthcare": "clinic",
+        "name": "Milliken-Bridlewood Animal Clinic",
+        "phone": "+1-416-292-7804"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.296286,
+              43.80031
+            ],
+            [
+              -79.296502,
+              43.800256
+            ],
+            [
+              -79.296454,
+              43.800154
+            ],
+            [
+              -79.296237,
+              43.800208
+            ],
+            [
+              -79.296286,
+              43.80031
+            ]
+          ]
+        ]
+      },
+      "id": "way/122481106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/127683795",
+        "addr:city": "Toronto",
+        "addr:housenumber": "27",
+        "addr:street": "Roncesvalles Avenue",
+        "amenity": "clinic",
+        "building": "commercial",
+        "building:colour": "beige",
+        "building:levels": "5",
+        "building:material": "brick",
+        "healthcare": "centre",
+        "name": "Sunnyside Medical Arts",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4461002,
+              43.6399507
+            ],
+            [
+              -79.4463867,
+              43.6398942
+            ],
+            [
+              -79.4463439,
+              43.639781
+            ],
+            [
+              -79.4462816,
+              43.6396161
+            ],
+            [
+              -79.4459952,
+              43.6396728
+            ],
+            [
+              -79.4461002,
+              43.6399507
+            ]
+          ]
+        ]
+      },
+      "id": "way/127683795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/179653215",
+        "amenity": "clinic",
+        "building": "commercial",
+        "healthcare": "clinic",
+        "name": "Galea Clinic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.5440616,
+              43.5977692
+            ],
+            [
+              -79.5438401,
+              43.5978175
+            ],
+            [
+              -79.5439269,
+              43.5980261
+            ],
+            [
+              -79.5441484,
+              43.5979778
+            ],
+            [
+              -79.5440616,
+              43.5977692
+            ]
+          ]
+        ]
+      },
+      "id": "way/179653215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/274891614",
+        "addr:city": "Toronto",
+        "amenity": "clinic",
+        "building": "yes",
+        "building:levels": "1",
+        "healthcare": "clinic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.253432,
+              43.784128
+            ],
+            [
+              -79.253453,
+              43.784109
+            ],
+            [
+              -79.253527,
+              43.784044
+            ],
+            [
+              -79.253645,
+              43.783939
+            ],
+            [
+              -79.253593,
+              43.783909
+            ],
+            [
+              -79.253602,
+              43.783901
+            ],
+            [
+              -79.253471,
+              43.783824
+            ],
+            [
+              -79.253463,
+              43.783831
+            ],
+            [
+              -79.253414,
+              43.783802
+            ],
+            [
+              -79.253297,
+              43.783906
+            ],
+            [
+              -79.253221,
+              43.783974
+            ],
+            [
+              -79.253299,
+              43.78402
+            ],
+            [
+              -79.253242,
+              43.78407
+            ],
+            [
+              -79.253304,
+              43.784107
+            ],
+            [
+              -79.253341,
+              43.784074
+            ],
+            [
+              -79.253432,
+              43.784128
+            ]
+          ]
+        ]
+      },
+      "id": "way/274891614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/357017944",
+        "addr:city": "Toronto",
+        "addr:housenumber": "16",
+        "addr:street": "Ossington Avenue",
+        "amenity": "clinic",
+        "building": "yes",
+        "building:colour": "grey",
+        "building:levels": "2",
+        "healthcare": "clinic",
+        "name": "Toronto Western Hospital Withdrawal Management Centre Men's Detox",
+        "note": "building was originally fire station",
+        "operator": "University Health Network"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4194017,
+              43.6445522
+            ],
+            [
+              -79.4191639,
+              43.6445907
+            ],
+            [
+              -79.4191906,
+              43.644677
+            ],
+            [
+              -79.4192297,
+              43.6446706
+            ],
+            [
+              -79.4192353,
+              43.6446887
+            ],
+            [
+              -79.4193633,
+              43.644668
+            ],
+            [
+              -79.4193475,
+              43.6446168
+            ],
+            [
+              -79.4194181,
+              43.6446054
+            ],
+            [
+              -79.4194017,
+              43.6445522
+            ]
+          ]
+        ]
+      },
+      "id": "way/357017944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/647465700",
+        "addr:city": "Toronto",
+        "addr:housenumber": "131",
+        "addr:street": "Jefferson Avenue",
+        "amenity": "clinic",
+        "building:part": "yes",
+        "healthcare": "clinic",
+        "name": "King Liberty Health Centre",
+        "phone": "+1-647-350-2932"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4219688,
+              43.6396295
+            ],
+            [
+              -79.4219478,
+              43.639575
+            ],
+            [
+              -79.4217531,
+              43.6396143
+            ],
+            [
+              -79.421774,
+              43.6396688
+            ],
+            [
+              -79.4219688,
+              43.6396295
+            ]
+          ]
+        ]
+      },
+      "id": "way/647465700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/659530703",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Humber Valley Medical Centre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.586174,
+              43.750728
+            ],
+            [
+              -79.586194,
+              43.750623
+            ],
+            [
+              -79.586269,
+              43.75063
+            ],
+            [
+              -79.586263,
+              43.750659
+            ],
+            [
+              -79.586452,
+              43.750678
+            ],
+            [
+              -79.586492,
+              43.750465
+            ],
+            [
+              -79.586302,
+              43.750446
+            ],
+            [
+              -79.586285,
+              43.750537
+            ],
+            [
+              -79.586212,
+              43.75053
+            ],
+            [
+              -79.586215,
+              43.750516
+            ],
+            [
+              -79.586025,
+              43.750497
+            ],
+            [
+              -79.585985,
+              43.750709
+            ],
+            [
+              -79.586174,
+              43.750728
+            ]
+          ]
+        ]
+      },
+      "id": "way/659530703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/661193354",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Renew Cosmetic Clinic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.415947,
+              43.760737
+            ],
+            [
+              -79.416071,
+              43.760709
+            ],
+            [
+              -79.416043,
+              43.760645
+            ],
+            [
+              -79.415998,
+              43.76054
+            ],
+            [
+              -79.415874,
+              43.760568
+            ],
+            [
+              -79.415919,
+              43.760671
+            ],
+            [
+              -79.415947,
+              43.760737
+            ]
+          ]
+        ]
+      },
+      "id": "way/661193354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/661347429",
+        "addr:housenumber": "148",
+        "addr:street": "Finch Avenue West",
+        "amenity": "clinic",
+        "building": "yes",
+        "building:levels": "1",
+        "healthcare": "clinic",
+        "name": "ACE Clinics",
+        "phone": "+1-416-222-0004",
+        "website": "https://aceclinics.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.428104,
+              43.777336
+            ],
+            [
+              -79.428238,
+              43.777305
+            ],
+            [
+              -79.428215,
+              43.777253
+            ],
+            [
+              -79.428213,
+              43.777249
+            ],
+            [
+              -79.428186,
+              43.777188
+            ],
+            [
+              -79.428062,
+              43.777216
+            ],
+            [
+              -79.428086,
+              43.77727
+            ],
+            [
+              -79.428076,
+              43.777272
+            ],
+            [
+              -79.428104,
+              43.777336
+            ]
+          ]
+        ]
+      },
+      "id": "way/661347429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/662768824",
+        "addr:city": "Toronto",
+        "addr:housenumber": "2045",
+        "addr:postcode": "M6E 3R4",
+        "addr:province": "ON",
+        "addr:street": "Dufferin Street",
+        "amenity": "clinic",
+        "building": "commercial",
+        "building:levels": "4",
+        "healthcare": "clinic",
+        "name": "Dufferin Medical Centre",
+        "opening_hours": "Mo-Fr 10:00-15:00",
+        "website": "https://www.dufferinmedical.com"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4461189,
+              43.6865691
+            ],
+            [
+              -79.4463426,
+              43.686521
+            ],
+            [
+              -79.446253,
+              43.6863082
+            ],
+            [
+              -79.4460282,
+              43.6863573
+            ],
+            [
+              -79.4461189,
+              43.6865691
+            ]
+          ]
+        ]
+      },
+      "id": "way/662768824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/671607430",
+        "addr:city": "North York",
+        "addr:housenumber": "2111",
+        "addr:postcode": "M3N 1N1",
+        "addr:street": "Finch Avenue West",
+        "amenity": "clinic",
+        "emergency": "no",
+        "healthcare": "clinic",
+        "name": "Humber River Urgent Care - Finch Site",
+        "note": "This is NOT an emergency room anymore",
+        "operator": "Humber River Hospital"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.524343,
+              43.7557404
+            ],
+            [
+              -79.5277923,
+              43.7548763
+            ],
+            [
+              -79.5279157,
+              43.7548182
+            ],
+            [
+              -79.5279425,
+              43.7543687
+            ],
+            [
+              -79.5280767,
+              43.7538611
+            ],
+            [
+              -79.5286614,
+              43.7530784
+            ],
+            [
+              -79.5290852,
+              43.7520864
+            ],
+            [
+              -79.5267087,
+              43.7525786
+            ],
+            [
+              -79.5266658,
+              43.7528111
+            ],
+            [
+              -79.5263922,
+              43.7531637
+            ],
+            [
+              -79.5257753,
+              43.7535085
+            ],
+            [
+              -79.5242089,
+              43.7542912
+            ],
+            [
+              -79.523989,
+              43.7547756
+            ],
+            [
+              -79.5240963,
+              43.7552173
+            ],
+            [
+              -79.524343,
+              43.7557404
+            ]
+          ]
+        ]
+      },
+      "id": "way/671607430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/673025966",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "4335",
+        "addr:street": "Bloor Street West",
+        "amenity": "clinic",
+        "building": "retail",
+        "healthcare": "clinic",
+        "layer": "1",
+        "name": "Markland Woods Medical Clinic",
+        "source": "yahoo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.5757402,
+              43.6308574
+            ],
+            [
+              -79.5757136,
+              43.6309106
+            ],
+            [
+              -79.5757266,
+              43.6309511
+            ],
+            [
+              -79.5760204,
+              43.6308919
+            ],
+            [
+              -79.5759896,
+              43.630806
+            ],
+            [
+              -79.5757402,
+              43.6308574
+            ]
+          ]
+        ]
+      },
+      "id": "way/673025966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/761909756",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.3583784,
+              43.6780982
+            ],
+            [
+              -79.3584615,
+              43.6777963
+            ],
+            [
+              -79.3582427,
+              43.6777658
+            ],
+            [
+              -79.3580994,
+              43.6777464
+            ],
+            [
+              -79.3580843,
+              43.6777961
+            ],
+            [
+              -79.3579716,
+              43.6777795
+            ],
+            [
+              -79.357955,
+              43.6778825
+            ],
+            [
+              -79.3579877,
+              43.6778856
+            ],
+            [
+              -79.3579626,
+              43.6779775
+            ],
+            [
+              -79.3580276,
+              43.6779877
+            ],
+            [
+              -79.3580125,
+              43.6780489
+            ],
+            [
+              -79.3581505,
+              43.6780675
+            ],
+            [
+              -79.3583784,
+              43.6780982
+            ]
+          ]
+        ]
+      },
+      "id": "way/761909756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/802303451",
+        "amenity": "clinic",
+        "building": "yes",
+        "name": "Bayview-Sheppard Health Care Clinic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.3898557,
+              43.7659282
+            ],
+            [
+              -79.3898422,
+              43.7658973
+            ],
+            [
+              -79.3898291,
+              43.7659003
+            ],
+            [
+              -79.3898025,
+              43.7658393
+            ],
+            [
+              -79.3897119,
+              43.7658601
+            ],
+            [
+              -79.3897714,
+              43.7659963
+            ],
+            [
+              -79.3898593,
+              43.7659762
+            ],
+            [
+              -79.38984,
+              43.7659318
+            ],
+            [
+              -79.3898557,
+              43.7659282
+            ]
+          ]
+        ]
+      },
+      "id": "way/802303451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/810476406",
+        "addr:city": "Toronto",
+        "addr:housenumber": "3853",
+        "addr:street": "Bloor Street West",
+        "amenity": "clinic",
+        "building": "retail",
+        "building:levels": "2",
+        "healthcare": "physiotherapist",
+        "name": "Westend Rehab & Physiotherapy"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.5398437,
+              43.6404877
+            ],
+            [
+              -79.5397928,
+              43.6404991
+            ],
+            [
+              -79.5398316,
+              43.6405898
+            ],
+            [
+              -79.5398228,
+              43.6405918
+            ],
+            [
+              -79.5398453,
+              43.6406442
+            ],
+            [
+              -79.5399049,
+              43.6406308
+            ],
+            [
+              -79.5398437,
+              43.6404877
+            ]
+          ]
+        ]
+      },
+      "id": "way/810476406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/67344656",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Fast Lane Medical Walk-In Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4213845,
+          43.6627537
+        ]
+      },
+      "id": "node/67344656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/387429797",
+        "addr:city": "Toronto",
+        "addr:housenumber": "726",
+        "addr:street": "Bloor Street West",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "level": "-1",
+        "name": "Bloor Park Medical Centre",
+        "note": "takes up large part of building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4180681,
+          43.6637492
+        ]
+      },
+      "id": "node/387429797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/409184326",
+        "addr:city": "Toronto",
+        "addr:housenumber": "800",
+        "addr:street": "Bathurst Street",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Bathurst Medical Dental Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4116111,
+          43.6655286
+        ]
+      },
+      "id": "node/409184326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/414983930",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Health For Life"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5455522,
+          43.6018316
+        ]
+      },
+      "id": "node/414983930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/473533561",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Main Drug Mart McCowan Medical Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2534478,
+          43.7839447
+        ]
+      },
+      "id": "node/473533561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/583868417",
+        "amenity": "clinic",
+        "email": "info@torontooralandfacialsurgery.com",
+        "healthcare": "clinic",
+        "name": "Toronto Oral & Facial Survery",
+        "phone": "+1 416 322 2111",
+        "website": "https://torontooralandfacialsurgery.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3887878,
+          43.7043766
+        ]
+      },
+      "id": "node/583868417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/863515931",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "ophthalmology",
+        "name": "University Eye Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3909591,
+          43.6590703
+        ]
+      },
+      "id": "node/863515931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1083025336",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Kennedy-Eglinton X-Ray Ultrasound"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2707041,
+          43.7320856
+        ]
+      },
+      "id": "node/1083025336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1122918861",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Pearl MD",
+        "note": "Dr. Jennifer Pearlman",
+        "phone": "+1-416-644-1112",
+        "website": "https://www.pearlrejuvenation.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3954447,
+          43.6917792
+        ]
+      },
+      "id": "node/1122918861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1208676825",
+        "addr:city": "Toronto",
+        "addr:housenumber": "313",
+        "addr:postcode": "M5N1A1",
+        "addr:province": "Ontario",
+        "addr:street": "Eglinton Avenue West",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "fertility",
+        "name": "Twig Fertility"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4086143,
+          43.7044196
+        ]
+      },
+      "id": "node/1208676825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1647928669",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "BioMedNova Laser Rehab Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2722993,
+          43.7733672
+        ]
+      },
+      "id": "node/1647928669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1680979874",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "The Doctor's Office Therapy Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.385968,
+          43.7090815
+        ]
+      },
+      "id": "node/1680979874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1713471323",
+        "addr:city": "Toronto",
+        "addr:housenumber": "2603",
+        "addr:street": "Yonge Street",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Toronto Rhinoplasty Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3998301,
+          43.7146904
+        ]
+      },
+      "id": "node/1713471323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1906274256",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "2438",
+        "addr:street": "Lake Shore Boulevard West",
+        "alt_name": "Lakeside Urgent Care Clinic",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Lake Medical Clinic",
+        "phone": "+1-416-792-2989"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4893663,
+          43.6142431
+        ]
+      },
+      "id": "node/1906274256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1906799288",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Appletree Medical Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5574801,
+          43.6148783
+        ]
+      },
+      "id": "node/1906799288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1995567804",
+        "amenity": "clinic",
+        "clinic": "physiotherapy",
+        "healthcare": "clinic",
+        "name": "Heritage Physiotherapy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.526278,
+          43.6212881
+        ]
+      },
+      "id": "node/1995567804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2153230530",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "ETPS Pain Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5375959,
+          43.593363
+        ]
+      },
+      "id": "node/2153230530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2153426038",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Alderwood Medical Clinic",
+        "note": "walk in clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5455738,
+          43.6019123
+        ]
+      },
+      "id": "node/2153426038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2156761972",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Panel Physician Scarborough",
+        "opening_hours": "Mo-Su,PH 07:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2982624,
+          43.7804969
+        ]
+      },
+      "id": "node/2156761972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2296069361",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "2885",
+        "addr:street": "Lake Shore Boulevard West",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Lakeshore Village Walk-In Medical Clinic",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa-Su 10:00-14:00; PH 10:00-14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5037575,
+          43.6009326
+        ]
+      },
+      "id": "node/2296069361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2355317358",
+        "addr:city": "North York",
+        "addr:housenumber": "1633",
+        "addr:street": "Sheppard Avenue West",
+        "amenity": "clinic",
+        "name": "Hincks-Dellcrest Centre",
+        "opendata:type": "102001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4948391,
+          43.7424762
+        ]
+      },
+      "id": "node/2355317358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2410395449",
+        "addr:city": "Toronto",
+        "addr:housenumber": "2445",
+        "addr:postcode": "M4P 1Y5",
+        "addr:province": "ON",
+        "addr:street": "Yonge Street",
+        "amenity": "clinic",
+        "check_date": "2023-08-11",
+        "email": "info@skinatomylaserclinic.com",
+        "facebook": "https://www.facebook.com/skinatomylaserclinic/",
+        "healthcare": "clinic",
+        "healthcare:speciality": "skin_care_clinic",
+        "level": "0",
+        "name": "Skinatomy Laser Clinic",
+        "opening_hours": "Mo 10:00-18:00; Tu-Fr 10:00-20:00; Sa 10:00-17:00; Su off",
+        "phone": "+1 4169019392",
+        "website": "https://skinatomylaserclinic.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.399063,
+          43.7109414
+        ]
+      },
+      "id": "node/2410395449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2619602980",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "level": "0",
+        "name": "Regain Health"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4181369,
+          43.7891323
+        ]
+      },
+      "id": "node/2619602980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2629855623",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1937",
+        "addr:postcode": "M4L 2C2",
+        "addr:street": "Gerrard Street East",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Upper Beach Health & Wellness",
+        "note": "Health and Wellness Centre offering Chiropractic, Physical Therapy, Massage, Naturopath and Acupuncture therapies .",
+        "website": "https://upperbeachhealth.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.310968,
+          43.680598
+        ]
+      },
+      "id": "node/2629855623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2674067744",
+        "addr:city": "Toronto",
+        "addr:housenumber": "55",
+        "addr:postcode": "M5B 1C6",
+        "addr:street": "Dundas Street East",
+        "amenity": "clinic",
+        "email": "info@cloudcareclinics.ca",
+        "fax": "+1-416-361-6044",
+        "healthcare": "clinic",
+        "level": "-1",
+        "name": "Cloud Care Clinic",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-15:00",
+        "phone": "+1-416-361-6000",
+        "website": "https://cloudcareclinics.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3787353,
+          43.6560308
+        ]
+      },
+      "id": "node/2674067744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2681580825",
+        "addr:housenumber": "10",
+        "addr:postcode": "M5E 1Z2",
+        "addr:street": "Lower Jarvis Street",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Queen's Quay Family Medicine",
+        "phone": "+1-647-827-9200",
+        "website": "http://www.queensquaymedical.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3693825,
+          43.6439724
+        ]
+      },
+      "id": "node/2681580825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2898368893",
+        "addr:city": "Toronto",
+        "addr:housenumber": "525",
+        "addr:street": "Dundas Street East",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Toronto Birth Centre",
+        "phone": "+1 4165307468",
+        "website": "https://www.torontobirthcentre.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3635136,
+          43.6597688
+        ]
+      },
+      "id": "node/2898368893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3058119909",
+        "addr:city": "Toronto",
+        "addr:floor": "5",
+        "addr:housenumber": "150",
+        "addr:street": "Eglinton Avenue East",
+        "addr:unit": "5th Floor",
+        "amenity": "clinic",
+        "fax": "+1-416-781-1910",
+        "healthcare": "clinic",
+        "name": "Bluewater Imaging",
+        "phone": "+1-416-462-0064",
+        "website": "https://www.bluewaterimaging.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.394007,
+          43.7078715
+        ]
+      },
+      "id": "node/3058119909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3072620121",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "operator": "True North Imaging"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3769618,
+          43.6717921
+        ]
+      },
+      "id": "node/3072620121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3099831285",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Optimal Rehabilitation Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.559094,
+          43.7487791
+        ]
+      },
+      "id": "node/3099831285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3243515563",
+        "addr:city": "North York",
+        "addr:housenumber": "2235",
+        "addr:postcode": "M2J 5B5",
+        "addr:street": "Sheppard Avenue East",
+        "amenity": "clinic",
+        "brand": "LASIK MD",
+        "brand:wikidata": "Q3205934",
+        "email": "info@lasikmd.com",
+        "fax": "+1-416-492-2002",
+        "healthcare": "clinic",
+        "healthcare:speciality": "ophthalmology",
+        "name": "LASIK MD",
+        "phone": "+1-416-492-3937",
+        "website": "http://www.lasikmd.com/north-york"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3278348,
+          43.7728044
+        ]
+      },
+      "id": "node/3243515563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3301508482",
+        "addr:city": "Toronto",
+        "addr:housenumber": "100",
+        "addr:postcode": "M5X 2A1",
+        "addr:street": "King Street West",
+        "amenity": "clinic",
+        "brand": "LASIK MD",
+        "brand:wikidata": "Q3205934",
+        "healthcare": "clinic",
+        "healthcare:speciality": "ophthalmology",
+        "level": "0",
+        "name": "LASIK MD",
+        "phone": "+1-416-362-8677",
+        "website": "http://www.lasikmd.com/toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3817014,
+          43.649356
+        ]
+      },
+      "id": "node/3301508482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3306511797",
+        "addr:city": "North York",
+        "addr:housenumber": "3695",
+        "addr:postcode": "M3J 1N2",
+        "addr:street": "Keele Street",
+        "amenity": "clinic",
+        "name": "Yorkview Medical Clinic",
+        "opening_hours": "09:30-20:00, Fr 09:30-16:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4882749,
+          43.7548238
+        ]
+      },
+      "id": "node/3306511797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3306925592",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "St. James Town Family Medical Dental Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3722305,
+          43.6683205
+        ]
+      },
+      "id": "node/3306925592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3318021728",
+        "addr:city": "Scarborough",
+        "addr:housenumber": "1145",
+        "addr:street": "Morningside Avenue",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Urgent Care and Family Medicine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1976569,
+          43.8012321
+        ]
+      },
+      "id": "node/3318021728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3473842479",
+        "addr:city": "Scarborough",
+        "addr:housenumber": "2650",
+        "addr:street": "Lawrence Avenue East",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Professional Inc."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.264615,
+          43.7524295
+        ]
+      },
+      "id": "node/3473842479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3473930675",
+        "addr:city": "Scarborough",
+        "addr:housenumber": "2562",
+        "addr:street": "Lawrence Avenue East",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "CML HealthCare Laboratory Services"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2659761,
+          43.7516209
+        ]
+      },
+      "id": "node/3473930675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3479310604",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Humber Family Chiropractic, Rehabilitation & Wellness",
+        "phone": "+1-416-744-7900",
+        "website": "http://www.humber-family.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5992186,
+          43.7315454
+        ]
+      },
+      "id": "node/3479310604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3479310606",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Medscan Medical Imaging"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5991581,
+          43.7314119
+        ]
+      },
+      "id": "node/3479310606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3676402441",
+        "addr:city": "Toronto",
+        "addr:housenumber": "145",
+        "addr:postcode": "M5A 1E3",
+        "addr:street": "Front Street East",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Myo Medical Clinic",
+        "website": "http://myomedicalmd.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3692853,
+          43.6499575
+        ]
+      },
+      "id": "node/3676402441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3676841440",
+        "addr:city": "Toronto",
+        "addr:housename": "Appletree Medical Group",
+        "addr:housenumber": "140",
+        "addr:postcode": "M5E 4P5",
+        "addr:street": "The Esplanade",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Appletree Medical Group",
+        "name:en": "Appletree Medical Group",
+        "website": "https://www.appletreetoronto.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3708001,
+          43.6484772
+        ]
+      },
+      "id": "node/3676841440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3739751680",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "NAOT Step into Health"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2951541,
+          43.7628339
+        ]
+      },
+      "id": "node/3739751680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3740785947",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Better Living Health and Community Services",
+        "website": "http://www.betterlivinghealth.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3468155,
+          43.7324176
+        ]
+      },
+      "id": "node/3740785947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3786150787",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "EnerHealth Medical & Wellness Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3839958,
+          43.6631903
+        ]
+      },
+      "id": "node/3786150787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3909486324",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Lindholm Clinic",
+        "phone": "+1-647-547-8181",
+        "website": "http://www.lindholmmedicalcentre.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.580312,
+          43.6506105
+        ]
+      },
+      "id": "node/3909486324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3929853649",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Humberwood Medical Clinic",
+        "phone": "+1-416-679-0100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6133056,
+          43.7211197
+        ]
+      },
+      "id": "node/3929853649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3930426862",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Appletree Medical Centre",
+        "phone": "+1-416-213-9577",
+        "website": "https://www.appletreetoronto.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6144924,
+          43.7208616
+        ]
+      },
+      "id": "node/3930426862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3931418541",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Burnhamthorpe Health Centre",
+        "phone": "+1-647-349-5400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.577166,
+          43.6414849
+        ]
+      },
+      "id": "node/3931418541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4183870536",
+        "addr:city": "Toronto",
+        "addr:housenumber": "2340",
+        "addr:postcode": "M6P 4A9",
+        "addr:street": "Dundas Street West",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Crossways Sexual Health Clinic",
+        "opening_hours": "Mo 09:30-12:00,14:00-18:30; Tu 13:00-17:30; We 09:30-11:30,13:00-15:30; Th 12:00-16:00; Fr 09:30-12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4512823,
+          43.6569809
+        ]
+      },
+      "id": "node/4183870536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4382403901",
+        "addr:city": "North York",
+        "addr:housenumber": "Suite 511-4430",
+        "addr:postcode": "M3H 3S3",
+        "addr:street": "Bathurst Street",
+        "amenity": "clinic",
+        "email": "tcmrehab@gmail.com",
+        "healthcare": "clinic",
+        "name": "TCM Rehab Clinic",
+        "opening_hours": "10:00-18:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1-416-398-9525",
+        "start_date": "2006",
+        "website": "https://www.tcmacupuncture.ca/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4392073,
+          43.756937
+        ]
+      },
+      "id": "node/4382403901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4412251792",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Bellair Laser Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3917232,
+          43.6702716
+        ]
+      },
+      "id": "node/4412251792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4412268189",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "level": "1",
+        "name": "Avenue Skin Care",
+        "phone": "+1-416-962-0001",
+        "website": "https://www.avenueskincare.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3915535,
+          43.670341
+        ]
+      },
+      "id": "node/4412268189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4640251529",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1590",
+        "addr:street": "Yonge Street",
+        "addr:unit": "101",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "level": "0",
+        "name": "Lea's Skin Care",
+        "phone": "+1-416-961-4774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3954521,
+          43.6906872
+        ]
+      },
+      "id": "node/4640251529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4697450853",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1240",
+        "addr:postcode": "M5R 2A7",
+        "addr:province": "ON",
+        "addr:street": "Bay Street",
+        "addr:unit": "#200",
+        "amenity": "clinic",
+        "description": "Antech Hair in Ontario have been in the forefront educating the general public for over 25 years about the intricacies of hair loss, hair removal, anti-aging and aesthetic therapies. Antech Hair is renowned for its combination of cutting edge technology a",
+        "healthcare": "clinic",
+        "healthcare:speciality": "hair_loss",
+        "name": "Antech Hair and Skin Clinics - Hair Loss Clinic Toronto",
+        "phone": "+1-647-697-8746",
+        "website": "https://antechhair.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3902052,
+          43.6702482
+        ]
+      },
+      "id": "node/4697450853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4760968892",
+        "amenity": "clinic",
+        "description": "Dundas Site",
+        "healthcare": "clinic",
+        "name": "The Four Villages Coummunity Health Centre",
+        "phone": "+1-416-604-0640",
+        "website": "https://4villageschc.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4865917,
+          43.6662753
+        ]
+      },
+      "id": "node/4760968892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4949964403",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "MDDirect",
+        "opening_hours": "Mo-Th 08:00-17:00, Fr 08:00-16:00, Sa-Su closed",
+        "website": "https://md-direct.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3996061,
+          43.7137179
+        ]
+      },
+      "id": "node/4949964403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5110845074",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Family Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2999211,
+          43.780111
+        ]
+      },
+      "id": "node/5110845074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5154126012",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Vitality MD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4183038,
+          43.7295384
+        ]
+      },
+      "id": "node/5154126012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5267141831",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "ophthalmology",
+        "name": "Skymark Eye Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3536231,
+          43.7943838
+        ]
+      },
+      "id": "node/5267141831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5276508696",
+        "addr:city": "North York",
+        "addr:housenumber": "716",
+        "addr:postcode": "M2H 3B4",
+        "addr:street": "Gordon Baker Road",
+        "addr:unit": "700",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "orthopaedics",
+        "name": "Back2feet Inc."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3420581,
+          43.8103076
+        ]
+      },
+      "id": "node/5276508696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5379390977",
+        "addr:city": "North York",
+        "addr:housenumber": "100",
+        "addr:postcode": "M2N 6N5",
+        "addr:street": "Sheppard Avenue East",
+        "amenity": "clinic",
+        "description": "#RyersonGEO441",
+        "healthcare": "clinic",
+        "name": "The Sheppard Heart Centre",
+        "phone": "+1-416-224-0375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4054201,
+          43.7632583
+        ]
+      },
+      "id": "node/5379390977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5465485921",
+        "addr:housenumber": "250",
+        "addr:postcode": "M9R 2R5",
+        "addr:street": "Wincott Drive",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Richview Footcare Clinic",
+        "phone": "+1-416-242-7802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5456421,
+          43.6796726
+        ]
+      },
+      "id": "node/5465485921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5590991004",
+        "addr:city": "Toronto",
+        "addr:housenumber": "20",
+        "addr:postcode": "M2N 0C6",
+        "addr:street": "Norton Avenue",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Waterdrop Medical Centre",
+        "phone": "+1-416-901-5736",
+        "website": "http://www.waterfrontclinic.info/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4129413,
+          43.772604
+        ]
+      },
+      "id": "node/5590991004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5706236064",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "ophthalmology",
+        "name": "North York Eye Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4154033,
+          43.7780181
+        ]
+      },
+      "id": "node/5706236064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5709343821",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "1111",
+        "addr:postcode": "M9V 4B4",
+        "addr:street": "Albion Road",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Albion Medical Center",
+        "phone": "+1-416-749-9400",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5658398,
+          43.7370237
+        ]
+      },
+      "id": "node/5709343821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5709609821",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "900",
+        "addr:postcode": "M9V 1A5",
+        "addr:street": "Albion Road",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Albion Thistledown Medical Centre",
+        "phone": "+1-416-740-7272",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5589079,
+          43.7348075
+        ]
+      },
+      "id": "node/5709609821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5720482823",
+        "addr:city": "Toronto",
+        "addr:housenumber": "531",
+        "addr:postcode": "M6G 1A6",
+        "addr:street": "College Street",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "College St. Medical Offices",
+        "phone": "+1-416-551-6528",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4110517,
+          43.6555781
+        ]
+      },
+      "id": "node/5720482823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5720515222",
+        "addr:city": "Toronto",
+        "addr:housenumber": "540",
+        "addr:postcode": "M6G 1A9",
+        "addr:street": "College Street",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "College Street Medical Laboratories",
+        "phone": "+1-416-324-8839",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.411285,
+          43.6559477
+        ]
+      },
+      "id": "node/5720515222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5720799621",
+        "addr:city": "Toronto",
+        "addr:housenumber": "489",
+        "addr:postcode": "M6G 1A5",
+        "addr:street": "College Street",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Immigrant Women's Health Centre",
+        "phone": "+1-416-323-9986",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4091352,
+          43.6560128
+        ]
+      },
+      "id": "node/5720799621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5751012915",
+        "addr:city": "Toronto",
+        "addr:housenumber": "212",
+        "addr:postcode": "M5T 2R9",
+        "addr:street": "Bathurst Street",
+        "amenity": "clinic",
+        "fax": "+1-416-572-2788",
+        "healthcare": "clinic",
+        "name": "Quanfu Zhou Chinese Medicine & Acupuncture Clinic",
+        "opening_hours": "Mo-We,Fr 09:30-18:00; Sa 09:30-17:00; Su,Th off",
+        "phone": "+1-416-603-0236",
+        "website": "https://hunsing.com/clinic.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4047028,
+          43.6482274
+        ]
+      },
+      "id": "node/5751012915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5793619259",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Promed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5190671,
+          43.7565579
+        ]
+      },
+      "id": "node/5793619259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5794134374",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "The Humber Centre for Family Health"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5453903,
+          43.6956816
+        ]
+      },
+      "id": "node/5794134374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5796519855",
+        "addr:city": "Toronto",
+        "addr:housenumber": "417",
+        "addr:postcode": "M5A 3A1",
+        "addr:street": "Parliament Street",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Gestalt Institute Of Toronto",
+        "phone": "+1-416-964-9464",
+        "website": "https://gestalt.on.ca",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3670692,
+          43.6624577
+        ]
+      },
+      "id": "node/5796519855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5801517056",
+        "addr:city": "Toronto",
+        "addr:housenumber": "208",
+        "addr:postcode": "M5A 2L1",
+        "addr:street": "Carlton Street",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "The Living Institute",
+        "phone": "+1-416-515-0404",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3701396,
+          43.663956
+        ]
+      },
+      "id": "node/5801517056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6074857129",
+        "amenity": "clinic",
+        "description": "Walk-in clinic",
+        "healthcare": "clinic",
+        "name": "Appletree Medical Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4261232,
+          43.6425643
+        ]
+      },
+      "id": "node/6074857129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6302634255",
+        "addr:housenumber": "5230",
+        "addr:street": "Dundas Street West",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "MCI - The Doctor's Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.538076,
+          43.6401419
+        ]
+      },
+      "id": "node/6302634255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6302634281",
+        "addr:housenumber": "3808",
+        "addr:street": "Bloor Street West",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "LS Clinic",
+        "phone": "+1 647-550-9191",
+        "website": "lsclinic.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5362118,
+          43.6419257
+        ]
+      },
+      "id": "node/6302634281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6304868750",
+        "addr:housenumber": "3315",
+        "addr:street": "Bloor Street West",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Medical Assesment Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5202909,
+          43.6452108
+        ]
+      },
+      "id": "node/6304868750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6306324880",
+        "addr:housenumber": "2906",
+        "addr:street": "Bloor Street West",
+        "amenity": "clinic",
+        "healthcare": "alternative",
+        "healthcare:speciality": "naturopathy",
+        "name": "Etobicoke Naturopathic Clinic",
+        "phone": "+1-416-236-3444",
+        "website": "https://enclinic.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.50691,
+          43.6485389
+        ]
+      },
+      "id": "node/6306324880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6309928581",
+        "addr:housenumber": "398",
+        "addr:street": "Royal York Road",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Mimico MEdical",
+        "phone": "+1-416-201-0836",
+        "website": "https://www.mimicomedical.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4998583,
+          43.6193766
+        ]
+      },
+      "id": "node/6309928581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6310788590",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "ReGen Medical Clinic",
+        "phone": "+1 8885758181"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.539891,
+          43.6358954
+        ]
+      },
+      "id": "node/6310788590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6313806642",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Dunbloor Medical Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5323735,
+          43.6444794
+        ]
+      },
+      "id": "node/6313806642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6313899869",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Kingsway Medical Centre",
+        "phone": "+1-647-341-1321",
+        "website": "https://www.kingswaymedicalcentre.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5136739,
+          43.6599977
+        ]
+      },
+      "id": "node/6313899869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6329864286",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "The Mews Medical Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5572343,
+          43.7143483
+        ]
+      },
+      "id": "node/6329864286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6333707748",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Kipling Heights Medical Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5738971,
+          43.7288908
+        ]
+      },
+      "id": "node/6333707748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6334287541",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Albion-Finch Medical Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5894542,
+          43.7415604
+        ]
+      },
+      "id": "node/6334287541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6334287546",
+        "addr:housenumber": "1620",
+        "addr:street": "Albion Road",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Albion Finch Medical Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5917084,
+          43.7419322
+        ]
+      },
+      "id": "node/6334287546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6334482676",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Vector Health Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6057539,
+          43.7351463
+        ]
+      },
+      "id": "node/6334482676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6341503781",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1254",
+        "addr:street": "Bloor Street West",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "RollCare Medical Services Walk-In Clinic",
+        "phone": "+1-647-427-3574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4403503,
+          43.6590091
+        ]
+      },
+      "id": "node/6341503781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6342119002",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1640",
+        "addr:province": "ON",
+        "addr:street": "Bloor Street West",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "High Park Clnic",
+        "phone": "+1-416-551-3539"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4564141,
+          43.65562
+        ]
+      },
+      "id": "node/6342119002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6342200348",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1700",
+        "addr:street": "Bloor Street West",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "The Four Villages Community Health Centre",
+        "website": "https://4villageschc.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4582728,
+          43.6552542
+        ]
+      },
+      "id": "node/6342200348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6342369290",
+        "addr:city": "Toronto",
+        "addr:housenumber": "2248",
+        "addr:postcode": "M6S 1N6",
+        "addr:street": "Bloor Street West",
+        "amenity": "clinic",
+        "building": "retail",
+        "check_date": "2024-10-11",
+        "healthcare": "clinic",
+        "level": "2",
+        "name": "Bloor West Foot Clinic",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4772226,
+          43.6510891
+        ]
+      },
+      "id": "node/6342369290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6345311526",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1175",
+        "addr:street": "Bloor Street West",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Music Therapy Center",
+        "website": "https://musictherapytrust.ca/the-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4384345,
+          43.6591105
+        ]
+      },
+      "id": "node/6345311526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6374617786",
+        "amenity": "clinic",
+        "check_date": "2024-11-30",
+        "healthcare": "clinic",
+        "name": "Health Infinity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4590969,
+          43.6547322
+        ]
+      },
+      "id": "node/6374617786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6382229189",
+        "addr:city": "Toronto",
+        "addr:housenumber": "2213",
+        "addr:street": "Bloor Street West",
+        "addr:unit": "208",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "level": "1",
+        "name": "Runnymede Walk-In Medical Clinic",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-13:00",
+        "phone": "+1-416-800-9697",
+        "website": "https://www.runnymedewalkinmedical.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4758386,
+          43.6510357
+        ]
+      },
+      "id": "node/6382229189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6402291665",
+        "addr:city": "Toronto",
+        "addr:housenumber": "955",
+        "addr:street": "Queen Street East",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "South Riverdale Community Health Centre",
+        "website": "https://www.srchc.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3391908,
+          43.6611431
+        ]
+      },
+      "id": "node/6402291665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6418586549",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Prince Edward Medical Centre",
+        "phone": "+1-647-345-3048",
+        "website": "https://princeedwardmedical.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5054643,
+          43.648043
+        ]
+      },
+      "id": "node/6418586549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6418658730",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Bloor Walk-in Clinic",
+        "opening_hours": "Mo-Tu 09:00-20:00; We-Fr 09:00-19:00; Sa 10:00-15:00",
+        "phone": "+1-416-792-6005",
+        "website": "https://bloorwalkinclinic.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5154911,
+          43.6461749
+        ]
+      },
+      "id": "node/6418658730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6456644689",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "St. Andrew's Clinic",
+        "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-14:00",
+        "phone": "+1-416-231-8860"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5383871,
+          43.6413366
+        ]
+      },
+      "id": "node/6456644689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6491503969",
+        "amenity": "clinic",
+        "healthcare": "physiotherapist",
+        "healthcare:speciality": "chiropractic",
+        "name": "Junction Health"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4670109,
+          43.6653163
+        ]
+      },
+      "id": "node/6491503969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6554593074",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centre for Human Assisted Reproductive Medicine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6016067,
+          43.7373967
+        ]
+      },
+      "id": "node/6554593074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6647305063",
+        "addr:unit": "201",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Stonegate Community Health Centre",
+        "opening_hours": "Mo-Tu 08:30-20:00; We 08:30-18:00; Th-Fr 08:30-17:00; Sa-Su closed",
+        "phone": "+1-416-231-7070",
+        "website": "https://www.stonegatechc.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4887179,
+          43.6378242
+        ]
+      },
+      "id": "node/6647305063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6780010686",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Toronto Orthopedic Services"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4636604,
+          43.6651227
+        ]
+      },
+      "id": "node/6780010686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7115387239",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;pharmacy",
+        "operator": "Multiple Individual Owners"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3029819,
+          43.7899867
+        ]
+      },
+      "id": "node/7115387239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7551657326",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Toronto Cardiac Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4314793,
+          43.680281
+        ]
+      },
+      "id": "node/7551657326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7578507814",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clair Gardens Medical Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4466388,
+          43.6769648
+        ]
+      },
+      "id": "node/7578507814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7578971620",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Garrison Creek Toronto Western Health Care Team"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4345468,
+          43.6800037
+        ]
+      },
+      "id": "node/7578971620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7581397988",
+        "amenity": "clinic",
+        "healthcare": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4384384,
+          43.6860483
+        ]
+      },
+      "id": "node/7581397988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7606708774",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Patronato Family Health Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3290752,
+          43.786962
+        ]
+      },
+      "id": "node/7606708774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638298738",
+        "addr:city": "Toronto",
+        "addr:housenumber": "655",
+        "addr:postcode": "M5G 2K4",
+        "addr:province": "Ontario",
+        "addr:street": "Bay Street",
+        "amenity": "clinic",
+        "email": "info@triofertility.com",
+        "healthcare": "clinic",
+        "healthcare:speciality": "fertility;clinic",
+        "level": "11,18",
+        "name": "Trio Fertility",
+        "phone": "+1-416-506-0804",
+        "website": "https://triofertility.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3842275,
+          43.6578005
+        ]
+      },
+      "id": "node/7638298738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7707066032",
+        "addr:housenumber": "567",
+        "addr:street": "Mount Pleasant Road",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Midtown Med Spa Anti-Aging & Laser Skin Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3879008,
+          43.7032799
+        ]
+      },
+      "id": "node/7707066032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7734522077",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "True North Imaging"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2405012,
+          43.7943717
+        ]
+      },
+      "id": "node/7734522077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7734522078",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Markham Sheppard Women's Health Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2410939,
+          43.7950165
+        ]
+      },
+      "id": "node/7734522078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7751836261",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "OATC Scarborough"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2928084,
+          43.7453613
+        ]
+      },
+      "id": "node/7751836261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7775688055",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Bioped Footcare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3213512,
+          43.6840101
+        ]
+      },
+      "id": "node/7775688055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7808465690",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Bosnar Health"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3928962,
+          43.7086193
+        ]
+      },
+      "id": "node/7808465690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7836092667",
+        "addr:housenumber": "325",
+        "addr:street": "Eglinton Avenue East",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Cosmetic Surgery Institute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3870783,
+          43.7088345
+        ]
+      },
+      "id": "node/7836092667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7836214554",
+        "addr:housenumber": "545",
+        "addr:street": "Eglinton Avenue East",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Global Health Pain & Injury Clinic",
+        "phone": "+1-416-500-4200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3790371,
+          43.710463
+        ]
+      },
+      "id": "node/7836214554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7857110757",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Toronto Head & Neck Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4129712,
+          43.7034863
+        ]
+      },
+      "id": "node/7857110757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7881165867",
+        "addr:housenumber": "250",
+        "addr:street": "St. Clair Avenue West",
+        "addr:unit": "G-5",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Forest Hill Dermatology",
+        "phone": "+1 4168403339",
+        "website": "https://www.foresthilldermatology.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4076732,
+          43.6856056
+        ]
+      },
+      "id": "node/7881165867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7992649638",
+        "addr:city": "Toronto",
+        "addr:housenumber": "672",
+        "addr:province": "Ontario",
+        "addr:street": "Dupont Street",
+        "addr:unit": "106",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "The Clinic at Christie",
+        "website": "https://theclinichealthgroup.com/contact-us/the-clinic-at-christie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4218627,
+          43.6719634
+        ]
+      },
+      "id": "node/7992649638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8168634424",
+        "addr:city": "Toronto",
+        "addr:housenumber": "2409",
+        "addr:postcode": "M4P 2E7",
+        "addr:province": "ON",
+        "addr:street": "Yonge Street",
+        "addr:unit": "202",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Five Points Family Health",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "website": "http://www.fivepointsfamilyhealth.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3989103,
+          43.7105121
+        ]
+      },
+      "id": "node/8168634424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8177415715",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Leaside Therapy Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3731559,
+          43.7014812
+        ]
+      },
+      "id": "node/8177415715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8437645857",
+        "addr:housenumber": "727",
+        "addr:street": "Dovercourt Road",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "physiotherapy",
+        "name": "The Clinic at Ossington",
+        "website": "https://theclinichealthgroup.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4290762,
+          43.6607996
+        ]
+      },
+      "id": "node/8437645857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8503113164",
+        "addr:housenumber": "222",
+        "addr:street": "Finch Avenue West",
+        "addr:unit": "108",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "traditional_chinese_medicine",
+        "name": "Good Life Wellness Centre",
+        "website": "https://www.facebook.com/goodlifeTCM/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4348006,
+          43.775738
+        ]
+      },
+      "id": "node/8503113164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8592959231",
+        "amenity": "clinic",
+        "name": "Canadian Dermatology Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3468098,
+          43.7483477
+        ]
+      },
+      "id": "node/8592959231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8749317799",
+        "addr:city": "Scarborough",
+        "addr:housenumber": "2901",
+        "addr:postcode": "M1X 0B6",
+        "addr:province": "Ontraio",
+        "addr:street": "Markham Road",
+        "addr:unit": "10",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "physiotherapist;chiropractic;acupuncture;massage_therapy",
+        "name": "Body Works Physiotherapy Markham Scarborough",
+        "website": "https://www.bodyworksphysio.ca/locations/scarborough/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.247684,
+          43.8243682
+        ]
+      },
+      "id": "node/8749317799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8749338986",
+        "addr:city": "Scarborough",
+        "addr:housenumber": "2100",
+        "addr:postcode": "M1H 3B7",
+        "addr:province": "Ontario",
+        "addr:street": "Ellesmere Road",
+        "addr:unit": "114",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "physiotherapist;chiropractic;massage_therapy;acupuncture",
+        "name": "Body Works Physiotherapy Ellesmere Scarborough",
+        "website": "https://www.bodyworksphysio.ca/locations/scarborough/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2329793,
+          43.7765355
+        ]
+      },
+      "id": "node/8749338986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8755382900",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Razi Wellness Walk-In Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3918442,
+          43.7082345
+        ]
+      },
+      "id": "node/8755382900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8761698953",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Spiral Movement Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3600033,
+          43.6544571
+        ]
+      },
+      "id": "node/8761698953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8994516027",
+        "addr:housenumber": "1066",
+        "addr:street": "The Queensway",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "MDs @ Queensway Medical Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5175641,
+          43.6232331
+        ]
+      },
+      "id": "node/8994516027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9138559237",
+        "addr:housenumber": "44",
+        "addr:postcode": "M5C 1Y2",
+        "addr:street": "Victoria Street",
+        "addr:unit": "1501",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "travel_clinic",
+        "name": "Passport Health Downtown Toronto Travel Clinic",
+        "operator": "Passport Health",
+        "operator:type": "private",
+        "operator:wikidata": "Q30270336"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3772618,
+          43.6502203
+        ]
+      },
+      "id": "node/9138559237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9142907222",
+        "addr:housenumber": "21",
+        "addr:street": "Progress Avenue",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Massage Therapy Scarborough & Toronto | Araya Health Centre",
+        "opening_hours": "Mo-Fr 10:00-20:00",
+        "website": "https://www.arayahealth.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2794817,
+          43.7694737
+        ]
+      },
+      "id": "node/9142907222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9200041240",
+        "addr:housenumber": "199",
+        "addr:street": "Avenue Road",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Dr. Asif Pirani – The Toronto Plastic Surgery Center",
+        "phone": "+1 (416) 360-8772",
+        "website": "https://drpirani.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.396784,
+          43.6758555
+        ]
+      },
+      "id": "node/9200041240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9215880785",
+        "addr:city": "Toronto",
+        "addr:housenumber": "650",
+        "addr:postcode": "M4S 2N5",
+        "addr:province": "Ontario",
+        "addr:street": "Mount Pleasant Road",
+        "addr:unit": "8",
+        "amenity": "clinic",
+        "email": "info@compassdermatology.ca",
+        "healthcare": "clinic",
+        "name": "Compass Dermatology",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "operator": "Sonya Cook",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+1-647-351-9277",
+        "start_date": "2012-09-01",
+        "website": "https://www.compassdermatology.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.389051,
+          43.7046386
+        ]
+      },
+      "id": "node/9215880785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9224325117",
+        "addr:city": "Toronto",
+        "addr:housenumber": "3077",
+        "addr:postcode": "M6A 1Z9",
+        "addr:province": "Ontario",
+        "addr:street": "Bathurst Street",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "mapillary": "7355095187841904",
+        "name": "Bathurst Lawrence Walk-In Clinic",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 10:00-14:00",
+        "phone": "+1 416-782-7772"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4296418,
+          43.719957
+        ]
+      },
+      "id": "node/9224325117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9234298144",
+        "addr:city": "Toronto",
+        "addr:housenumber": "110",
+        "addr:postcode": "M5J 0B7",
+        "addr:province": "Ontario",
+        "addr:street": "Harbour Street",
+        "amenity": "clinic",
+        "email": "info@healthone.ca",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;osteopathy;dentistry;rehabilitation;optometry",
+        "level": "3",
+        "name": "HealthOne Toronto",
+        "phone": "+1 416-663-5433",
+        "website": "https://healthone.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3801501,
+          43.6416048
+        ]
+      },
+      "id": "node/9234298144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9332664176",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Movement Health Clinic Inc."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4284162,
+          43.7193628
+        ]
+      },
+      "id": "node/9332664176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9338960560",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "5425",
+        "addr:postcode": "M9B 1B1",
+        "addr:province": "ON",
+        "addr:street": "Dundas Street West",
+        "addr:unit": "1",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "cml Canada Med Laser",
+        "opening_hours": "Mo off; Tu-Th 10:00-19:00; Fr-Sa 10:00-18:00; Su off",
+        "phone": "+1 647-362-1088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5416717,
+          43.6340487
+        ]
+      },
+      "id": "node/9338960560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9424260350",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Walking Mobility Clinics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5427064,
+          43.6224216
+        ]
+      },
+      "id": "node/9424260350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9579432245",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "The Health Clinic/The Beauty Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3865269,
+          43.6685479
+        ]
+      },
+      "id": "node/9579432245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9609556958",
+        "addr:unit": "100",
+        "amenity": "clinic",
+        "fax": "+1 416-231-0845",
+        "healthcare": "clinic",
+        "name": "CReATe West Fertility Centre & Diagnostic Ultrasound",
+        "phone": "+1 416-231-4100",
+        "website": "https://www.createwestfertility.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5228007,
+          43.6459559
+        ]
+      },
+      "id": "node/9609556958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9684132737",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "PhysioHealth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.376837,
+          43.6500494
+        ]
+      },
+      "id": "node/9684132737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9684143868",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Metro Central Ultrasound"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3778202,
+          43.6525064
+        ]
+      },
+      "id": "node/9684143868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9716253676",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "1243",
+        "addr:postcode": "M8X 1Y9",
+        "addr:province": "ON",
+        "addr:street": "Islington Avenue",
+        "addr:unit": "Ste. 700",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "travel_clinic",
+        "name": "Passport Health Etobicoke Travel Clinic",
+        "operator": "Passport Health",
+        "operator:type": "private",
+        "operator:wikidata": "Q30270336"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.523504,
+          43.64589
+        ]
+      },
+      "id": "node/9716253676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9728101352",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "West End Diagnostic Imaging"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4833685,
+          43.6493879
+        ]
+      },
+      "id": "node/9728101352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10016795506",
+        "addr:housenumber": "2133",
+        "addr:street": "Lake Shore Boulevard West",
+        "amenity": "clinic",
+        "check_date": "2022-09-11",
+        "healthcare": "clinic",
+        "name": "Lakeshore West Medical Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4789029,
+          43.626824
+        ]
+      },
+      "id": "node/10016795506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10085650982",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "JC Kinesiology Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.312737,
+          43.7263823
+        ]
+      },
+      "id": "node/10085650982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10172246219",
+        "addr:city": "Toronto",
+        "addr:housenumber": "116",
+        "addr:postcode": "M4E 2X2",
+        "addr:province": "Ontario",
+        "addr:street": "Glen Manor Drive",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Glen Manor Pharmacy",
+        "opening_hours": "Mo-Fr 09:30-18:00; Sa 10:00-14:00",
+        "phone": "+1 416-690-1599"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.292666,
+          43.6713848
+        ]
+      },
+      "id": "node/10172246219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10300714687",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "X-Ray Ultrasound Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5483624,
+          43.61972
+        ]
+      },
+      "id": "node/10300714687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10313624103",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Travel Vaccine Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4434637,
+          43.7542811
+        ]
+      },
+      "id": "node/10313624103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10544447309",
+        "amenity": "clinic",
+        "healthcare": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.47326,
+          43.7669382
+        ]
+      },
+      "id": "node/10544447309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10606713142",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "The Look Lab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4023273,
+          43.6424583
+        ]
+      },
+      "id": "node/10606713142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10722489904",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Julian Anthony’s"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4272614,
+          43.6533022
+        ]
+      },
+      "id": "node/10722489904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10783353447",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Rehab on Finch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3804834,
+          43.7880059
+        ]
+      },
+      "id": "node/10783353447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10893291924",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Five Pain Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5285473,
+          43.6493352
+        ]
+      },
+      "id": "node/10893291924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10977965711",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Motioncare Massage + Rehab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4139113,
+          43.7610754
+        ]
+      },
+      "id": "node/10977965711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11005652713",
+        "amenity": "clinic",
+        "name": "Andalusia Speech Therapy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4516212,
+          43.6539832
+        ]
+      },
+      "id": "node/11005652713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11006291776",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Hygge Wellness Center",
+        "website": "https://hyggewell.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4501509,
+          43.6484033
+        ]
+      },
+      "id": "node/11006291776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11225441714",
+        "amenity": "clinic",
+        "healthcare": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3230812,
+          43.8145906
+        ]
+      },
+      "id": "node/11225441714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11225441723",
+        "amenity": "clinic",
+        "healthcare": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3057675,
+          43.8220355
+        ]
+      },
+      "id": "node/11225441723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11241099773",
+        "addr:floor": "2",
+        "addr:housenumber": "2360",
+        "addr:street": "Yonge Street",
+        "amenity": "clinic",
+        "check_date": "2023-10-05",
+        "healthcare": "clinic",
+        "healthcare:speciality": "fertility",
+        "level": "1",
+        "name": "Pollin Fertility",
+        "phone": "+1 4163423552",
+        "website": "https://www.pollinfertility.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3990768,
+          43.7087008
+        ]
+      },
+      "id": "node/11241099773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11284989693",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Vitalife",
+        "phone": "+1 416-849-0004",
+        "website": "https://vitalifeclinic.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2942517,
+          43.6711218
+        ]
+      },
+      "id": "node/11284989693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11406462094",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Laser Hair Removal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4873448,
+          43.745508
+        ]
+      },
+      "id": "node/11406462094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11492450783",
+        "addr:city": "Toronto",
+        "addr:housenumber": "790",
+        "addr:postcode": "M5G 1N8",
+        "addr:province": "ON",
+        "addr:street": "Bay Street",
+        "addr:unit": "716",
+        "air_conditioning": "yes",
+        "amenity": "clinic",
+        "contact:email": "toronto_bay@myhealthcentre.ca",
+        "contact:phone": "+1-833-904-4844",
+        "contact:website": "https://myhealthcentre.ca/location/toronto-bay/",
+        "fax": "+1-416-260-2274",
+        "healthcare": "clinic",
+        "name": "WELL Health Medical Services",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "toilets": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3860394,
+          43.6604591
+        ]
+      },
+      "id": "node/11492450783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11611617288",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Dev Wellness & Rehab Clinic Inc."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5853802,
+          43.7402252
+        ]
+      },
+      "id": "node/11611617288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11803596895",
+        "addr:housenumber": "347",
+        "addr:street": "Spadina Avenue",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Spadina Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3986705,
+          43.6552558
+        ]
+      },
+      "id": "node/11803596895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12029244069",
+        "addr:housenumber": "561",
+        "addr:postcode": "M5N1B5",
+        "addr:street": "Eglinton Avenue West",
+        "amenity": "clinic",
+        "email": "admin@watsonmedical.ca",
+        "healthcare": "clinic",
+        "name": "Watson Medical Clinic",
+        "opening_hours": "Mo-Th 09:00-17:00; Fr 10:00-17:00; Sa 10:00-14:00",
+        "phone": "4165517606",
+        "website": "https://www.watsonmedicalclinic.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.414734,
+          43.7031206
+        ]
+      },
+      "id": "node/12029244069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12029980469",
+        "addr:city": "Toronto",
+        "addr:housenumber": "2237",
+        "addr:street": "Yonge Street",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "bellair Laser Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3980115,
+          43.7062741
+        ]
+      },
+      "id": "node/12029980469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12051410618",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "The Borough Health & Wellness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5453656,
+          43.6013552
+        ]
+      },
+      "id": "node/12051410618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12076151022",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Beaches Health Group"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2886339,
+          43.6725581
+        ]
+      },
+      "id": "node/12076151022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12106613201",
+        "addr:housenumber": "66",
+        "addr:postcode": "M5B 1G3",
+        "amenity": "clinic",
+        "contact:facebook": "hasslefreeclinic",
+        "contact:instagram": "hasslefreeclinic",
+        "contact:twitter": "hfreeclinic",
+        "healthcare": "clinic",
+        "name": "Hassle Free Clinic",
+        "opening_hours": "Mo-Th 10:00-15:00, 16:00-20:00; Fr 10:00-15:00, 16:00-19:00; Sa 10:00-14:00; Su off",
+        "phone": "416-922-0566",
+        "website": "https://www.hasslefreeclinic.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3787457,
+          43.6599458
+        ]
+      },
+      "id": "node/12106613201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12385268761",
+        "addr:housenumber": "321",
+        "addr:street": "Rogers Road",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "PhysioMed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4585509,
+          43.6830961
+        ]
+      },
+      "id": "node/12385268761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12387472291",
+        "amenity": "clinic",
+        "check_date": "2024-11-30",
+        "healthcare": "clinic",
+        "name": "reconnect",
+        "website": "https://reconnect.on.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4589012,
+          43.6547758
+        ]
+      },
+      "id": "node/12387472291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12402855183",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "The Body Engineers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4538028,
+          43.6615172
+        ]
+      },
+      "id": "node/12402855183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12402864654",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Tread Health"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4534972,
+          43.6611929
+        ]
+      },
+      "id": "node/12402864654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12404620772",
+        "addr:city": "Toronto",
+        "addr:housenumber": "2",
+        "addr:postcode": "M5B 1J3",
+        "addr:province": "ON",
+        "addr:street": "Carlton Street",
+        "amenity": "clinic",
+        "description": "Elevate your well-being with Mary Wong, Toronto's trusted fertility strategist, Chinese medicine practitioner, and personal coach. With a holistic approach honed over 28 years, Mary integrates ancient wisdom with contemporary techniques to address your un",
+        "healthcare": "clinic",
+        "healthcare:speciality": "fertility;acupuncture",
+        "name": "Mary Wong",
+        "website": "https://meetmarywong.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3828561,
+          43.6615796
+        ]
+      },
+      "id": "node/12404620772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12455032554",
+        "addr:city": "Scarborough",
+        "addr:housenumber": "3502",
+        "addr:postcode": "M1L 1E1",
+        "addr:province": "Ontario",
+        "addr:street": "Danforth Avenue",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Warden Family Practice & Walk In",
+        "phone": "+16479846172",
+        "website": "https://chealthnet.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.274158,
+          43.6946493
+        ]
+      },
+      "id": "node/12455032554"
+    }
+  ]
+}

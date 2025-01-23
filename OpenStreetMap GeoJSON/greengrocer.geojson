@@ -1,0 +1,1918 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-01-10T15:28:00Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105788994",
+        "addr:housenumber": "464",
+        "addr:street": "Danforth Avenue",
+        "building": "yes",
+        "check_date": "2024-09-12",
+        "name": "Fruitland",
+        "name:en": "Fruitland",
+        "opening_hours": "09:00-20:30",
+        "shop": "greengrocer",
+        "source": "Bing",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.3500207,
+              43.6781901
+            ],
+            [
+              -79.3501358,
+              43.6781666
+            ],
+            [
+              -79.3501127,
+              43.6781075
+            ],
+            [
+              -79.3500948,
+              43.6781112
+            ],
+            [
+              -79.3500671,
+              43.6780403
+            ],
+            [
+              -79.3499712,
+              43.678061
+            ],
+            [
+              -79.3500207,
+              43.6781901
+            ]
+          ]
+        ]
+      },
+      "id": "way/105788994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/127689632",
+        "addr:city": "Toronto",
+        "addr:housenumber": "3008",
+        "addr:province": "ON",
+        "addr:street": "Bloor Street West",
+        "addr:unit": "B",
+        "building": "retail",
+        "name": "Young's Produce",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:interac": "yes",
+        "shop": "greengrocer",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.5109275,
+              43.6478208
+            ],
+            [
+              -79.5108292,
+              43.6475988
+            ],
+            [
+              -79.5107415,
+              43.6476202
+            ],
+            [
+              -79.5108387,
+              43.6478402
+            ],
+            [
+              -79.5109275,
+              43.6478208
+            ]
+          ]
+        ]
+      },
+      "id": "way/127689632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/215516067",
+        "addr:city": "Toronto",
+        "addr:housenumber": "3324",
+        "addr:postcode": "M6P 2A4",
+        "addr:street": "Dundas Street West",
+        "building": "retail",
+        "building:flats": "1",
+        "building:levels": "2",
+        "building:material": "brick",
+        "name": "Feed It Forward",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4809669,
+              43.6656807
+            ],
+            [
+              -79.4809053,
+              43.6656798
+            ],
+            [
+              -79.4809043,
+              43.665721
+            ],
+            [
+              -79.4809161,
+              43.6657319
+            ],
+            [
+              -79.4809161,
+              43.6658536
+            ],
+            [
+              -79.480968,
+              43.6658554
+            ],
+            [
+              -79.4809671,
+              43.6658137
+            ],
+            [
+              -79.4809669,
+              43.6656807
+            ]
+          ]
+        ]
+      },
+      "id": "way/215516067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/673020497",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "5230",
+        "addr:street": "Dundas Street West",
+        "building": "retail",
+        "name": "Valley Farm Produce",
+        "opendata:type": "115001",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.5380035,
+              43.6404319
+            ],
+            [
+              -79.5383413,
+              43.6402912
+            ],
+            [
+              -79.5383075,
+              43.6402492
+            ],
+            [
+              -79.5379692,
+              43.6403898
+            ],
+            [
+              -79.5380035,
+              43.6404319
+            ]
+          ]
+        ]
+      },
+      "id": "way/673020497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/797144914",
+        "addr:city": "Toronto",
+        "addr:housenumber": "739",
+        "addr:province": "Ontario",
+        "addr:street": "Palmerston Avenue",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Karma Food Cooperative",
+        "opening_hours": "Tu-Fr 09:00-21:00; Sa-Su 10:00-18:00",
+        "phone": "+1-416-534-1470",
+        "roof:shape": "flat",
+        "shop": "greengrocer",
+        "website": "https://www.karmacoop.org/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4146216,
+              43.6681387
+            ],
+            [
+              -79.4145763,
+              43.668024
+            ],
+            [
+              -79.4143395,
+              43.668073
+            ],
+            [
+              -79.4143849,
+              43.6681876
+            ],
+            [
+              -79.4144116,
+              43.6681821
+            ],
+            [
+              -79.4146216,
+              43.6681387
+            ]
+          ]
+        ]
+      },
+      "id": "way/797144914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/385623941",
+        "name": "Country Farms Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2440041,
+          43.7530515
+        ]
+      },
+      "id": "node/385623941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/402146105",
+        "name": "Janny Fruit Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3022296,
+          43.687907
+        ]
+      },
+      "id": "node/402146105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/530783346",
+        "addr:city": "Toronto",
+        "addr:housenumber": "225",
+        "addr:street": "Roncesvalles Avenue",
+        "name": "Maple Produce",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4487512,
+          43.6459549
+        ]
+      },
+      "id": "node/530783346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/530804372",
+        "addr:city": "Toronto",
+        "addr:housenumber": "143",
+        "addr:street": "Roncesvalles Avenue",
+        "name": "Ko Fruit Market",
+        "phone": "+1-416-588-9587",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4477843,
+          43.6435068
+        ]
+      },
+      "id": "node/530804372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/565602728",
+        "addr:city": "Toronto",
+        "addr:housenumber": "3180",
+        "addr:street": "Bedford Park Avenue",
+        "name": "Dick Young Market",
+        "note": "Dick Young Market to close in early 2015;building has been sold.",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4031407,
+          43.7278292
+        ]
+      },
+      "id": "node/565602728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/745788844",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1913",
+        "addr:street": "Yonge Street",
+        "name": "Fresh Buy Market",
+        "old_name": "D&Y Market",
+        "phone": "+1-416-489-3800",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3964518,
+          43.6985642
+        ]
+      },
+      "id": "node/745788844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/770565255",
+        "addr:street": "Yonge Street",
+        "name": "Fruits Basket",
+        "old_name": "Bills Basket Flowers",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3964786,
+          43.6986751
+        ]
+      },
+      "id": "node/770565255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/803417626",
+        "addr:city": "Toronto",
+        "addr:housenumber": "3228",
+        "addr:street": "Yonge Street",
+        "shop": "greengrocer",
+        "source": "CanVec 6.0 - NRCan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4034869,
+          43.7292487
+        ]
+      },
+      "id": "node/803417626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/874979352",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1810",
+        "addr:street": "Danforth Avenue",
+        "name": "Plank Road Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3184318,
+          43.6846158
+        ]
+      },
+      "id": "node/874979352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1138266096",
+        "name": "Pusateri's",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3842003,
+          43.7687446
+        ]
+      },
+      "id": "node/1138266096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1208685999",
+        "addr:city": "Toronto",
+        "addr:housenumber": "546",
+        "addr:postcode": "M5N 1B4",
+        "addr:province": "Ontario",
+        "addr:street": "Eglinton Avenue West",
+        "name": "Fresh Harvest",
+        "opening_hours": "Mo-Fr 08:00-19:00, Sa-Su 08:00-18:00",
+        "organic": "yes",
+        "phone": "+1 416 487 0388",
+        "shop": "greengrocer",
+        "website": "https://www.theeglintonway.com/places/canada/ontario/toronto/grocery-general-and-convenience/fresh-harvest-fine-foods/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4148359,
+          43.7033866
+        ]
+      },
+      "id": "node/1208685999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1208716519",
+        "is_in": "Old Toronto, Toronto, Ontario, Canada",
+        "name": "Parkway Fine Foods",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4267684,
+          43.7005579
+        ]
+      },
+      "id": "node/1208716519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1439925406",
+        "name": "Season Fruit House",
+        "phone": "+1 416 482 1763",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.388899,
+          43.70575
+        ]
+      },
+      "id": "node/1439925406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1682653222",
+        "name": "Chef's Choice",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5242066,
+          43.6276943
+        ]
+      },
+      "id": "node/1682653222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1683543515",
+        "addr:city": "Toronto",
+        "addr:housenumber": "2294",
+        "addr:street": "Bloor Street West",
+        "check_date": "2024-10-11",
+        "name": "Fresh Avenue",
+        "shop": "greengrocer",
+        "website": "https://freshandwild.ca/bloor.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4789455,
+          43.6506971
+        ]
+      },
+      "id": "node/1683543515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1885436880",
+        "name": "Lakeshore Village Fruit",
+        "phone": "+1-647-342-7440",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5026274,
+          43.6015086
+        ]
+      },
+      "id": "node/1885436880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1886020871",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "418",
+        "addr:street": "Royal York Road",
+        "name": "Royal Garden",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5002246,
+          43.6202616
+        ]
+      },
+      "id": "node/1886020871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2030472209",
+        "addr:housenumber": "499",
+        "addr:street": "Parliament Street",
+        "name": "Cabbagetown Organics",
+        "opening_hours": "Mo-Th 10:00-21:00; Fr-Sa 10:00-20:00; Su 10:00-18:00",
+        "phone": "+1-416-913-7296",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3680083,
+          43.6647636
+        ]
+      },
+      "id": "node/2030472209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2111296670",
+        "name": "Good Brothers Fruits Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3449705,
+          43.6795907
+        ]
+      },
+      "id": "node/2111296670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2111352851",
+        "name": "Farm Flea Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3487942,
+          43.6889693
+        ]
+      },
+      "id": "node/2111352851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2286832901",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1182",
+        "addr:street": "Bloor Street West",
+        "name": "Family Fruit and Flower",
+        "phone": "+1-647-430-7138",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4374944,
+          43.6595656
+        ]
+      },
+      "id": "node/2286832901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2291775930",
+        "addr:city": "Toronto",
+        "addr:housenumber": "2334",
+        "addr:postcode": "M6S 1P3",
+        "addr:street": "Bloor Street West",
+        "name": "Carload Food Market",
+        "phone": "+1-416-767-8661",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4807317,
+          43.6503588
+        ]
+      },
+      "id": "node/2291775930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2336530619",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1103",
+        "addr:postcode": "M4W 2L7",
+        "addr:street": "Yonge Street",
+        "name": "Harvest Wagon",
+        "shop": "greengrocer",
+        "website": "https://harvestwagon.com/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3906648,
+          43.6802236
+        ]
+      },
+      "id": "node/2336530619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2405795802",
+        "addr:city": "Toronto",
+        "addr:housenumber": "2268",
+        "addr:street": "Bloor Street West",
+        "check_date": "2024-10-11",
+        "name": "Green Thumb Fruit Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4781993,
+          43.6508597
+        ]
+      },
+      "id": "node/2405795802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2684485064",
+        "addr:city": "Toronto",
+        "addr:housenumber": "520",
+        "addr:postcode": "M4X 1P5",
+        "addr:street": "Parliament Street",
+        "name": "Fairway Market Variety & Grocery",
+        "phone": "+1-416-921-0624",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3688294,
+          43.6659403
+        ]
+      },
+      "id": "node/2684485064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2711784529",
+        "name": "Best Choice",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4407715,
+          43.692119
+        ]
+      },
+      "id": "node/2711784529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2780212495",
+        "name": "R&C Fruit Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4266526,
+          43.6496138
+        ]
+      },
+      "id": "node/2780212495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2814021401",
+        "name": "Sun Sun Fruit Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4427866,
+          43.6781686
+        ]
+      },
+      "id": "node/2814021401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2814025601",
+        "name": "Imperial Fruit Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4407208,
+          43.6786341
+        ]
+      },
+      "id": "node/2814025601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3079147026",
+        "name": "Oxford Fruit",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4022035,
+          43.6551897
+        ]
+      },
+      "id": "node/3079147026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3648181841",
+        "name": "Fruit, Vegetable & Flower Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2312722,
+          43.72492
+        ]
+      },
+      "id": "node/3648181841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3769531982",
+        "name": "Natural Foods",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4022083,
+          43.6546502
+        ]
+      },
+      "id": "node/3769531982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4317376004",
+        "addr:housenumber": "1487",
+        "addr:street": "Queen Street West",
+        "name": "Parkdale Fruit Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4396529,
+          43.6398746
+        ]
+      },
+      "id": "node/4317376004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4907912011",
+        "check_date": "2024-09-12",
+        "name": "Farmer Fruit Market",
+        "shop": "greengrocer",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3576493,
+          43.6766282
+        ]
+      },
+      "id": "node/4907912011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5022507094",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1227",
+        "addr:street": "Bloor Street West",
+        "name": "Galaxy T&T",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.440762,
+          43.6586138
+        ]
+      },
+      "id": "node/5022507094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5424787621",
+        "addr:city": "Toronto",
+        "addr:housenumber": "631",
+        "addr:street": "Bloor Street West",
+        "name": "Ave Maria Latin Cafe",
+        "phone": "+1-647-479-8824",
+        "shop": "greengrocer",
+        "wheelchair": "yes",
+        "wheelchair:description": "StopGap ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4143864,
+          43.6643243
+        ]
+      },
+      "id": "node/5424787621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5427153321",
+        "addr:city": "Toronto",
+        "addr:housenumber": "327",
+        "addr:street": "Carlaw Avenue",
+        "name": "Fruitful Market",
+        "phone": "+1-416-849-2504",
+        "shop": "greengrocer",
+        "wheelchair": "yes",
+        "wheelchair:description": "StopGap ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3412849,
+          43.6644434
+        ]
+      },
+      "id": "node/5427153321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5437719426",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1387",
+        "addr:street": "Danforth Avenue",
+        "name": "Enat Market Plus",
+        "phone": "+1-647-340-4072",
+        "shop": "greengrocer",
+        "wheelchair": "yes",
+        "wheelchair:description": "StopGap ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3279119,
+          43.682288
+        ]
+      },
+      "id": "node/5437719426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5440194021",
+        "addr:city": "Toronto",
+        "addr:housenumber": "2044",
+        "addr:street": "Danforth Avenue",
+        "name": "Moberly Natural Foods",
+        "phone": "+1-416-690-8868",
+        "shop": "greengrocer",
+        "wheelchair": "yes",
+        "wheelchair:description": "StopGap ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3139521,
+          43.6855638
+        ]
+      },
+      "id": "node/5440194021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5443412221",
+        "addr:city": "Toronto",
+        "addr:housenumber": "920",
+        "addr:street": "Dundas Street West",
+        "name": "Ervanaria Victoria Inc",
+        "phone": "+1-416-603-7978",
+        "shop": "greengrocer",
+        "wheelchair": "yes",
+        "wheelchair:description": "StopGap ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4130229,
+          43.6510135
+        ]
+      },
+      "id": "node/5443412221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5445769528",
+        "addr:city": "Toronto",
+        "addr:housenumber": "614",
+        "addr:street": "Gerrard Street East",
+        "check_date": "2023-05-11",
+        "level": "0",
+        "name": "Good Cheese",
+        "opening_hours": "11:00-19:00",
+        "phone": "+1-416-285-8482",
+        "shop": "greengrocer",
+        "wheelchair": "yes",
+        "wheelchair:description": "StopGap ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3513664,
+          43.6658583
+        ]
+      },
+      "id": "node/5445769528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5457602921",
+        "addr:city": "Toronto",
+        "addr:housenumber": "891",
+        "addr:street": "Queen Street East",
+        "name": "Leslieville Cheese Market East",
+        "opening_hours": "Mo-We 10:00-19:00; Th,Fr 10:00-19:30; Sa 09:00-19:00; Su 10:00-18:00",
+        "phone": "+1-416-465-7143",
+        "shop": "greengrocer",
+        "wheelchair": "yes",
+        "wheelchair:description": "StopGap ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3422118,
+          43.6604574
+        ]
+      },
+      "id": "node/5457602921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5706169021",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "1050",
+        "addr:postcode": "M9V 1A7",
+        "addr:street": "Albion Road",
+        "name": "African Caribbean Groceries",
+        "phone": "+1-647-707-1140",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5642183,
+          43.7370959
+        ]
+      },
+      "id": "node/5706169021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5706188737",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "1146-1144",
+        "addr:postcode": "M9V 1A8",
+        "addr:street": "Albion Road",
+        "name": "Al Meezan Halal Meat & Grocery",
+        "phone": "+1-416-745-1058",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5670963,
+          43.7379099
+        ]
+      },
+      "id": "node/5706188737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5706218021",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "973",
+        "addr:postcode": "M9V 1A6",
+        "addr:street": "Albion Road",
+        "name": "Al- Falah Grocery & Halal Meat",
+        "phone": "+1-416-742-6824",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5635284,
+          43.7360272
+        ]
+      },
+      "id": "node/5706218021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5709277723",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "1148",
+        "addr:postcode": "M9V 1A8",
+        "addr:street": "Albion Road",
+        "name": "New Era Mart Ltd",
+        "phone": "+1-416-740-7955",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5672043,
+          43.7379215
+        ]
+      },
+      "id": "node/5709277723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5709565921",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "2626",
+        "addr:postcode": "M9V 1A9",
+        "addr:street": "Islington Avenue",
+        "name": "New India Grocers Inc.",
+        "phone": "+1-416-744-3586",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.565364,
+          43.7367209
+        ]
+      },
+      "id": "node/5709565921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5720665638",
+        "addr:city": "Toronto",
+        "addr:housenumber": "699",
+        "addr:postcode": "M6G 1B9",
+        "addr:street": "College Street",
+        "name": "Fresh Fruit Market",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4176425,
+          43.6550599
+        ]
+      },
+      "id": "node/5720665638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6306230098",
+        "addr:housenumber": "2974",
+        "addr:street": "Bloor Street West",
+        "name": "Sunnyland Products",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5093931,
+          43.6479465
+        ]
+      },
+      "id": "node/6306230098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6307475000",
+        "name": "Royal York Fruit Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5316346,
+          43.6914471
+        ]
+      },
+      "id": "node/6307475000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6329863974",
+        "name": "Dostana Grocers",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5585097,
+          43.7139518
+        ]
+      },
+      "id": "node/6329863974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6336544161",
+        "name": "Gold Leaf Fruit Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4134987,
+          43.6647546
+        ]
+      },
+      "id": "node/6336544161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6340696129",
+        "addr:city": "Toronto",
+        "addr:housenumber": "868",
+        "addr:street": "Bloor Street West",
+        "check_date": "2024-09-13",
+        "name": "Bloorcourt Village Market",
+        "phone": "+1-416-588-0138",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4248723,
+          43.6622872
+        ]
+      },
+      "id": "node/6340696129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6341760040",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1574",
+        "addr:street": "Bloor Street West",
+        "name": "Blue Sky Fruit Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4539692,
+          43.6561619
+        ]
+      },
+      "id": "node/6341760040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6344075530",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1001",
+        "addr:street": "Bloor Street West",
+        "name": "Gold City Fruit Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4302558,
+          43.6608492
+        ]
+      },
+      "id": "node/6344075530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6358218170",
+        "addr:city": "Toronto",
+        "addr:housenumber": "757",
+        "addr:street": "Queen Street West",
+        "name": "Wong's Fruit Market",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4074912,
+          43.6463758
+        ]
+      },
+      "id": "node/6358218170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6358218821",
+        "addr:city": "Toronto",
+        "addr:housenumber": "614",
+        "addr:province": "Ontario",
+        "addr:street": "Queen Street West",
+        "name": "Fresh 1 Market",
+        "shop": "greengrocer",
+        "website": "https://www.flightcentre.ca/stores/storedetail/queen-west"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4050752,
+          43.6471075
+        ]
+      },
+      "id": "node/6358218821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6369142350",
+        "addr:housenumber": "564",
+        "addr:street": "Queen Street West",
+        "name": "Queens Fruit Market & Plants",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-18:00",
+        "phone": "+1-416-203-8168",
+        "shop": "greengrocer",
+        "website": "https://queens-fruit-market-plants.myshopify.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4033405,
+          43.6474506
+        ]
+      },
+      "id": "node/6369142350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6371048519",
+        "addr:housenumber": "3",
+        "addr:street": "Bartlett Avenue",
+        "name": "Mediterrania",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4328488,
+          43.6607056
+        ]
+      },
+      "id": "node/6371048519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6382259852",
+        "level": "1",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3715822,
+          43.6491033
+        ]
+      },
+      "id": "node/6382259852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6382259853",
+        "level": "1",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3715721,
+          43.6491312
+        ]
+      },
+      "id": "node/6382259853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6382259854",
+        "level": "1",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.371541,
+          43.6491356
+        ]
+      },
+      "id": "node/6382259854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6462276935",
+        "name": "Danforth Village",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3026639,
+          43.6878197
+        ]
+      },
+      "id": "node/6462276935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6493366625",
+        "addr:housenumber": "1438-1440",
+        "addr:street": "Queen Street West",
+        "name": "Lucky Supermarket",
+        "note": "Shop spans ground floor of this this building, with residential entrance in the middle of it",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4358649,
+          43.6408732
+        ]
+      },
+      "id": "node/6493366625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6493366627",
+        "check_date": "2024-07-23",
+        "name": "The Local Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4356325,
+          43.6409154
+        ]
+      },
+      "id": "node/6493366627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6495425604",
+        "addr:housenumber": "1384",
+        "addr:street": "Queen Street West",
+        "name": "Queen Fresh Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4335661,
+          43.6413405
+        ]
+      },
+      "id": "node/6495425604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6533178800",
+        "addr:housenumber": "682",
+        "addr:street": "College Street",
+        "name": "College Fruit Market",
+        "phone": "+1-416-538-6283",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4173785,
+          43.6553556
+        ]
+      },
+      "id": "node/6533178800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6549810549",
+        "name": "Culture Share Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4451647,
+          43.6969449
+        ]
+      },
+      "id": "node/6549810549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6550513534",
+        "addr:city": "Toronto",
+        "addr:housenumber": "541",
+        "addr:province": "Ontario",
+        "addr:street": "St. Clair Avenue West",
+        "name": "St. Clair Fruits Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4204002,
+          43.6825239
+        ]
+      },
+      "id": "node/6550513534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6578943824",
+        "name": "Bill's Farm",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3467487,
+          43.705411
+        ]
+      },
+      "id": "node/6578943824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6584574279",
+        "name": "Agincourt Fruit Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2934312,
+          43.7838722
+        ]
+      },
+      "id": "node/6584574279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6593962011",
+        "name": "Danforth Food Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2242485,
+          43.7612058
+        ]
+      },
+      "id": "node/6593962011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6600852106",
+        "name": "West Indian Fine Foods",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2235137,
+          43.7595629
+        ]
+      },
+      "id": "node/6600852106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6685670310",
+        "addr:housenumber": "720",
+        "addr:street": "Queen Street East",
+        "name": "Riverside Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.34952,
+          43.6590567
+        ]
+      },
+      "id": "node/6685670310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7528937361",
+        "name": "Manke Fruits And Vegetables",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2844728,
+          43.680904
+        ]
+      },
+      "id": "node/7528937361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7551829352",
+        "name": "Akivas Fruits & Deli",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4445325,
+          43.7921084
+        ]
+      },
+      "id": "node/7551829352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7557429118",
+        "name": "Glen Eden Fruits",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.428169,
+          43.7132737
+        ]
+      },
+      "id": "node/7557429118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7564727449",
+        "name": "Popular Supermarket",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4655662,
+          43.6821681
+        ]
+      },
+      "id": "node/7564727449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7567822676",
+        "name": "Dave Young Fruit Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4130354,
+          43.7037895
+        ]
+      },
+      "id": "node/7567822676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7576545651",
+        "check_date": "2023-11-09",
+        "name": "Boston Variety",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4575073,
+          43.674921
+        ]
+      },
+      "id": "node/7576545651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7578507800",
+        "name": "Diana Grocery",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4483255,
+          43.6765739
+        ]
+      },
+      "id": "node/7578507800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7578529540",
+        "name": "St. Clair Fruit Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4467675,
+          43.6772567
+        ]
+      },
+      "id": "node/7578529540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7579051121",
+        "name": "St. Clair Fruit Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4296757,
+          43.6810399
+        ]
+      },
+      "id": "node/7579051121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7581379284",
+        "name": "Yip's Fruit Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.438571,
+          43.6862697
+        ]
+      },
+      "id": "node/7581379284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7766306296",
+        "name": "SP Importers",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2539086,
+          43.7533561
+        ]
+      },
+      "id": "node/7766306296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841655445",
+        "name": "Passion Fruits",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3746379,
+          43.7048984
+        ]
+      },
+      "id": "node/7841655445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7856569581",
+        "name": "Fruit Mart",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4003256,
+          43.6541454
+        ]
+      },
+      "id": "node/7856569581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9905846289",
+        "name": "Badali’s Fruit Market",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3750155,
+          43.7059527
+        ]
+      },
+      "id": "node/9905846289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9905857218",
+        "name": "Summer’s Best Fruit & Flowers",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3749554,
+          43.7057438
+        ]
+      },
+      "id": "node/9905857218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12227765390",
+        "name": "Yu’s Fruit & Groceries",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4376132,
+          43.6647771
+        ]
+      },
+      "id": "node/12227765390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12387315999",
+        "name": "Rogers Supermarket",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4630679,
+          43.6827171
+        ]
+      },
+      "id": "node/12387315999"
+    }
+  ]
+}

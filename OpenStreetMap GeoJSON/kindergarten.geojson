@@ -1,0 +1,1648 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-10-22T15:35:09Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/103381030",
+        "addr:city": "Toronto",
+        "addr:housenumber": "14",
+        "addr:postcode": "M4S 2L2",
+        "addr:street": "De-Savery Cresent",
+        "amenity": "kindergarten",
+        "building": "school",
+        "name": "Manor Montessori (DeSavery)",
+        "phone": "+1-416-488-7370"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.3898941,
+              43.703166
+            ],
+            [
+              -79.3899116,
+              43.7030496
+            ],
+            [
+              -79.3897574,
+              43.7030351
+            ],
+            [
+              -79.3897574,
+              43.7030264
+            ],
+            [
+              -79.3896997,
+              43.7030215
+            ],
+            [
+              -79.3896755,
+              43.7031505
+            ],
+            [
+              -79.3898941,
+              43.703166
+            ]
+          ]
+        ]
+      },
+      "id": "way/103381030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/120390390",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "3495",
+        "addr:street": "Lake Shore Boulevard West",
+        "amenity": "kindergarten",
+        "building": "commercial",
+        "name": "Thomas Berry Child Care",
+        "operator": "City of Toronto",
+        "source": "NRCan-CanVec-7.0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.5309093,
+              43.5944104
+            ],
+            [
+              -79.5307056,
+              43.5944593
+            ],
+            [
+              -79.5308627,
+              43.5948443
+            ],
+            [
+              -79.5310596,
+              43.5947944
+            ],
+            [
+              -79.5310569,
+              43.594777
+            ],
+            [
+              -79.5313201,
+              43.5947069
+            ],
+            [
+              -79.5312594,
+              43.5945457
+            ],
+            [
+              -79.5309942,
+              43.5946075
+            ],
+            [
+              -79.5309093,
+              43.5944104
+            ]
+          ]
+        ]
+      },
+      "id": "way/120390390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/162143410",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4391147,
+              43.729218
+            ],
+            [
+              -79.4389603,
+              43.7291584
+            ],
+            [
+              -79.4388431,
+              43.7291131
+            ],
+            [
+              -79.4387241,
+              43.7292739
+            ],
+            [
+              -79.4389639,
+              43.7293666
+            ],
+            [
+              -79.43899,
+              43.7293314
+            ],
+            [
+              -79.4390217,
+              43.7293436
+            ],
+            [
+              -79.4391147,
+              43.729218
+            ]
+          ]
+        ]
+      },
+      "id": "way/162143410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/198871187",
+        "addr:city": "North York",
+        "addr:housenumber": "59",
+        "addr:street": "Plymbridge Road",
+        "amenity": "kindergarten",
+        "name": "Hillcrest Progressive School",
+        "source": "yahoo",
+        "website": "http://hillcrestschool.ca"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.3981818,
+              43.7403677
+            ],
+            [
+              -79.3978615,
+              43.7403204
+            ],
+            [
+              -79.397611,
+              43.7401432
+            ],
+            [
+              -79.3975468,
+              43.7402446
+            ],
+            [
+              -79.3973349,
+              43.7404257
+            ],
+            [
+              -79.3974349,
+              43.7408745
+            ],
+            [
+              -79.3975577,
+              43.7409102
+            ],
+            [
+              -79.397714,
+              43.7408979
+            ],
+            [
+              -79.397875,
+              43.7408533
+            ],
+            [
+              -79.3979903,
+              43.7407952
+            ],
+            [
+              -79.3980968,
+              43.7407048
+            ],
+            [
+              -79.3981504,
+              43.7405575
+            ],
+            [
+              -79.3981818,
+              43.7403677
+            ]
+          ]
+        ]
+      },
+      "id": "way/198871187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/227678350",
+        "access": "private",
+        "amenity": "kindergarten"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.1880996,
+              43.785945
+            ],
+            [
+              -79.1884415,
+              43.7858593
+            ],
+            [
+              -79.1883849,
+              43.7857417
+            ],
+            [
+              -79.188043,
+              43.7858274
+            ],
+            [
+              -79.1880996,
+              43.785945
+            ]
+          ]
+        ]
+      },
+      "id": "way/227678350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/485199756",
+        "amenity": "kindergarten"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.1879102,
+              43.7855497
+            ],
+            [
+              -79.1881355,
+              43.7854994
+            ],
+            [
+              -79.1880872,
+              43.7853909
+            ],
+            [
+              -79.1877976,
+              43.7853174
+            ],
+            [
+              -79.1879102,
+              43.7855497
+            ]
+          ]
+        ]
+      },
+      "id": "way/485199756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/511516416",
+        "amenity": "kindergarten",
+        "name": "Happy Day Child Care",
+        "phone": "+1-416-769-1289"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4928575,
+              43.6683151
+            ],
+            [
+              -79.4924383,
+              43.6684072
+            ],
+            [
+              -79.4925,
+              43.6685469
+            ],
+            [
+              -79.4925213,
+              43.6685575
+            ],
+            [
+              -79.4925468,
+              43.6685575
+            ],
+            [
+              -79.492927,
+              43.6684735
+            ],
+            [
+              -79.4928575,
+              43.6683151
+            ]
+          ]
+        ]
+      },
+      "id": "way/511516416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/516892222",
+        "addr:housenumber": "3825",
+        "addr:street": "Bloor Street West",
+        "amenity": "kindergarten",
+        "building": "detached",
+        "email": "info@mw4k.com",
+        "name": "Mindwerx Academy",
+        "phone": "+1-416-233-5437",
+        "website": "https://mw4k.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.537649,
+              43.64117
+            ],
+            [
+              -79.537679,
+              43.641156
+            ],
+            [
+              -79.537675,
+              43.641152
+            ],
+            [
+              -79.537731,
+              43.641124
+            ],
+            [
+              -79.537675,
+              43.641065
+            ],
+            [
+              -79.537679,
+              43.641063
+            ],
+            [
+              -79.53765,
+              43.641032
+            ],
+            [
+              -79.537645,
+              43.641035
+            ],
+            [
+              -79.537584,
+              43.640971
+            ],
+            [
+              -79.53747,
+              43.641029
+            ],
+            [
+              -79.537535,
+              43.641097
+            ],
+            [
+              -79.537528,
+              43.641101
+            ],
+            [
+              -79.537559,
+              43.641132
+            ],
+            [
+              -79.537567,
+              43.641128
+            ],
+            [
+              -79.537579,
+              43.641141
+            ],
+            [
+              -79.537584,
+              43.641139
+            ],
+            [
+              -79.537602,
+              43.641158
+            ],
+            [
+              -79.537626,
+              43.641146
+            ],
+            [
+              -79.537649,
+              43.64117
+            ]
+          ]
+        ]
+      },
+      "id": "way/516892222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/660585356",
+        "addr:city": "Toronto",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Growing Tykes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.229288,
+              43.769183
+            ],
+            [
+              -79.229574,
+              43.769122
+            ],
+            [
+              -79.229527,
+              43.769007
+            ],
+            [
+              -79.229675,
+              43.768976
+            ],
+            [
+              -79.229581,
+              43.768741
+            ],
+            [
+              -79.229429,
+              43.768773
+            ],
+            [
+              -79.229436,
+              43.768792
+            ],
+            [
+              -79.229348,
+              43.768811
+            ],
+            [
+              -79.229437,
+              43.769031
+            ],
+            [
+              -79.229243,
+              43.769072
+            ],
+            [
+              -79.229288,
+              43.769183
+            ]
+          ]
+        ]
+      },
+      "id": "way/660585356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/669623918",
+        "amenity": "kindergarten",
+        "name": "The Etobicoke Children's Centre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.544331,
+              43.6841003
+            ],
+            [
+              -79.5461279,
+              43.6830885
+            ],
+            [
+              -79.5458758,
+              43.6826618
+            ],
+            [
+              -79.5458136,
+              43.682458
+            ],
+            [
+              -79.5449837,
+              43.6829275
+            ],
+            [
+              -79.5442139,
+              43.6835181
+            ],
+            [
+              -79.5437253,
+              43.6837165
+            ],
+            [
+              -79.544331,
+              43.6841003
+            ]
+          ]
+        ]
+      },
+      "id": "way/669623918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/671607411",
+        "amenity": "kindergarten",
+        "name": "Mount Carmel Day Care Centre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.5139763,
+              43.7418848
+            ],
+            [
+              -79.5145609,
+              43.7417484
+            ],
+            [
+              -79.5147203,
+              43.7417189
+            ],
+            [
+              -79.514628,
+              43.7413158
+            ],
+            [
+              -79.5138717,
+              43.7414953
+            ],
+            [
+              -79.5139763,
+              43.7418848
+            ]
+          ]
+        ]
+      },
+      "id": "way/671607411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/673532724",
+        "amenity": "kindergarten",
+        "name": "Three R's Schoolhouse"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.5336901,
+              43.6989133
+            ],
+            [
+              -79.5335966,
+              43.6986836
+            ],
+            [
+              -79.5332238,
+              43.6987592
+            ],
+            [
+              -79.5333177,
+              43.6990016
+            ],
+            [
+              -79.5336901,
+              43.6989133
+            ]
+          ]
+        ]
+      },
+      "id": "way/673532724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/696281140",
+        "addr:housenumber": "1196",
+        "addr:street": "Wilson Avenue",
+        "amenity": "kindergarten",
+        "name": "St. Theresa's Day Care Centre",
+        "operator": "Carmelite Missionary Sisters"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4883759,
+              43.7259135
+            ],
+            [
+              -79.4890633,
+              43.7257626
+            ],
+            [
+              -79.48884,
+              43.7252566
+            ],
+            [
+              -79.4881809,
+              43.7254017
+            ],
+            [
+              -79.4883759,
+              43.7259135
+            ]
+          ]
+        ]
+      },
+      "id": "way/696281140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703249912",
+        "amenity": "kindergarten",
+        "name": "Growing Tykes Learning Centre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.1953835,
+              43.7662147
+            ],
+            [
+              -79.1951957,
+              43.7657498
+            ],
+            [
+              -79.1946901,
+              43.7658496
+            ],
+            [
+              -79.1949087,
+              43.7663212
+            ],
+            [
+              -79.1953835,
+              43.7662147
+            ]
+          ]
+        ]
+      },
+      "id": "way/703249912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703618244",
+        "amenity": "kindergarten",
+        "name": "McNicoll Avenue Child Care Program"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.3587166,
+              43.7990911
+            ],
+            [
+              -79.3585612,
+              43.798742
+            ],
+            [
+              -79.3584364,
+              43.7984276
+            ],
+            [
+              -79.3581877,
+              43.7978524
+            ],
+            [
+              -79.3572521,
+              43.7980758
+            ],
+            [
+              -79.3575203,
+              43.7993496
+            ],
+            [
+              -79.3587166,
+              43.7990911
+            ]
+          ]
+        ]
+      },
+      "id": "way/703618244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/706750045",
+        "amenity": "kindergarten"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.1808379,
+              43.7754496
+            ],
+            [
+              -79.1808625,
+              43.7749541
+            ],
+            [
+              -79.1805804,
+              43.7749519
+            ],
+            [
+              -79.1805641,
+              43.7754392
+            ],
+            [
+              -79.1808379,
+              43.7754496
+            ]
+          ]
+        ]
+      },
+      "id": "way/706750045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/759935513",
+        "amenity": "kindergarten",
+        "name": "West End Parents Daycare"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4246614,
+              43.6520479
+            ],
+            [
+              -79.4247207,
+              43.6522295
+            ],
+            [
+              -79.4248345,
+              43.6525781
+            ],
+            [
+              -79.4250555,
+              43.6525552
+            ],
+            [
+              -79.4254899,
+              43.6524758
+            ],
+            [
+              -79.4254775,
+              43.6524441
+            ],
+            [
+              -79.4258387,
+              43.652378
+            ],
+            [
+              -79.425628,
+              43.6518571
+            ],
+            [
+              -79.4246614,
+              43.6520479
+            ]
+          ]
+        ]
+      },
+      "id": "way/759935513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/392155850",
+        "addr:city": "North York",
+        "addr:housenumber": "2180",
+        "addr:street": "Bayview Avenue",
+        "amenity": "kindergarten",
+        "name": "The Lawrence Park School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3803075,
+          43.7248764
+        ]
+      },
+      "id": "node/392155850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/677268606",
+        "amenity": "kindergarten",
+        "name": "Abacus Montesori"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3468477,
+          43.7453052
+        ]
+      },
+      "id": "node/677268606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1302239125",
+        "amenity": "kindergarten",
+        "name": "Manor Montessori School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3837555,
+          43.7051031
+        ]
+      },
+      "id": "node/1302239125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1502166677",
+        "amenity": "kindergarten",
+        "name": "Creative Minds Montessori Academy",
+        "phone": "+1-647-347-6068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.152135,
+          43.786942
+        ]
+      },
+      "id": "node/1502166677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1502219002",
+        "amenity": "kindergarten",
+        "name": "Montessori Village & Education Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1708011,
+          43.7828174
+        ]
+      },
+      "id": "node/1502219002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1637113783",
+        "amenity": "kindergarten",
+        "name": "Taddle Creek Montessori",
+        "phone": "+1-416-413-9493",
+        "website": "https://www.mildenhallmontessori.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.404338,
+          43.6684379
+        ]
+      },
+      "id": "node/1637113783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1670698798",
+        "addr:city": "Toronto",
+        "addr:housenumber": "666",
+        "addr:street": "Eglinton Avenue West",
+        "amenity": "kindergarten",
+        "name": "Holland Bloorview Kids Rehabilitation Hospital Nursery School",
+        "phone": "+1-416-782-1105",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.hollandbloorview.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.420207,
+          43.702458
+        ]
+      },
+      "id": "node/1670698798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1858113226",
+        "addr:city": "Toronto",
+        "addr:housenumber": "12",
+        "addr:postcode": "M5E 1Z9",
+        "addr:street": "Yonge Street",
+        "addr:unit": "1",
+        "amenity": "kindergarten",
+        "name": "Pinnacle Jr YMCA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3764161,
+          43.6428747
+        ]
+      },
+      "id": "node/1858113226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1946332783",
+        "addr:city": "North York",
+        "addr:housenumber": "200",
+        "addr:street": "Sheppard Avenue East",
+        "amenity": "kindergarten",
+        "name": "Central Montessori Schools",
+        "opendata:type": "104008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4016695,
+          43.7638201
+        ]
+      },
+      "id": "node/1946332783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2044899907",
+        "addr:housenumber": "160",
+        "addr:street": "Bloor Street East",
+        "amenity": "kindergarten",
+        "name": "Kids & Company"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3832256,
+          43.6718943
+        ]
+      },
+      "id": "node/2044899907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2149834616",
+        "amenity": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3617609,
+          43.6498984
+        ]
+      },
+      "id": "node/2149834616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2153426092",
+        "amenity": "kindergarten",
+        "name": "Rhyme & Reason Day Care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5460547,
+          43.6026617
+        ]
+      },
+      "id": "node/2153426092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2385826611",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "85",
+        "addr:street": "Forty First Street",
+        "amenity": "kindergarten",
+        "name": "Funshine Child Care Centre",
+        "opendata:type": "102001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5440525,
+          43.5901711
+        ]
+      },
+      "id": "node/2385826611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2520197082",
+        "addr:city": "Toronto",
+        "addr:housenumber": "25",
+        "addr:street": "Alvin Avenue",
+        "amenity": "kindergarten",
+        "name": "Montessori For Children",
+        "opendata:type": "102001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3926754,
+          43.6893163
+        ]
+      },
+      "id": "node/2520197082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2523381319",
+        "amenity": "kindergarten",
+        "name": "Fraser Mustard Early Learning Academy",
+        "operator": "Toronto District School Board",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3451699,
+          43.7049241
+        ]
+      },
+      "id": "node/2523381319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2858285619",
+        "amenity": "kindergarten",
+        "name": "TRUST Child Care Centres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3928892,
+          43.6809768
+        ]
+      },
+      "id": "node/2858285619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3003188957",
+        "amenity": "kindergarten",
+        "name": "Toronto Bilingual Montessori School",
+        "phone": "+1-647-748-3009",
+        "website": "http://www.torontobilingualmontessori.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3979745,
+          43.7174453
+        ]
+      },
+      "id": "node/3003188957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4337853549",
+        "amenity": "kindergarten",
+        "name": "High Park Jr. Y Day Care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4594401,
+          43.6645566
+        ]
+      },
+      "id": "node/4337853549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405929087",
+        "addr:city": "Toronto",
+        "addr:housenumber": "30",
+        "addr:postcode": "M5J 2E9",
+        "addr:street": "Centre Island Park",
+        "amenity": "kindergarten",
+        "name": "Gibraltar Point Day Nursery",
+        "website": "http://www.gibraltarpointdaynursery.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3784496,
+          43.6151938
+        ]
+      },
+      "id": "node/4405929087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405929088",
+        "addr:housenumber": "18",
+        "addr:street": "Wyandot Avenue",
+        "amenity": "kindergarten",
+        "name": "Waterfront Montessori Children's Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3621579,
+          43.6265761
+        ]
+      },
+      "id": "node/4405929088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5051527590",
+        "amenity": "kindergarten",
+        "name": "Treasured Moments Kids",
+        "website": "https://www.treasuredmomentskids.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5483281,
+          43.648733
+        ]
+      },
+      "id": "node/5051527590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6172170866",
+        "amenity": "kindergarten",
+        "name": "Growing Tykes",
+        "phone": "+1 416-207-9259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5338675,
+          43.6435843
+        ]
+      },
+      "id": "node/6172170866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6172970149",
+        "amenity": "kindergarten",
+        "name": "Islington Village Childcare Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5181101,
+          43.6288801
+        ]
+      },
+      "id": "node/6172970149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6307475013",
+        "addr:housenumber": "1500",
+        "addr:street": "Royal York Road",
+        "amenity": "kindergarten",
+        "name": "Amazon Indoor Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5321804,
+          43.6922141
+        ]
+      },
+      "id": "node/6307475013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6341447883",
+        "addr:housenumber": "1737",
+        "addr:street": "Weston Road",
+        "amenity": "kindergarten",
+        "name": "Royal Day Care Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.510617,
+          43.6986356
+        ]
+      },
+      "id": "node/6341447883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6342147270",
+        "amenity": "kindergarten",
+        "name": "Mount Dennis Early Learning & Child Care Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4960655,
+          43.6890754
+        ]
+      },
+      "id": "node/6342147270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6342147280",
+        "amenity": "kindergarten",
+        "name": "Twinkle Stars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4948575,
+          43.6890493
+        ]
+      },
+      "id": "node/6342147280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6348493745",
+        "addr:housenumber": "2405",
+        "addr:street": "Finch Avenue West",
+        "amenity": "kindergarten",
+        "name": "Lori Gardens Centre For Early Learning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5442725,
+          43.7505457
+        ]
+      },
+      "id": "node/6348493745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6352818278",
+        "amenity": "kindergarten",
+        "name": "Northwest Childhood Learning Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5712963,
+          43.7587515
+        ]
+      },
+      "id": "node/6352818278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6363132517",
+        "addr:housenumber": "230",
+        "addr:street": "Jane Street",
+        "amenity": "kindergarten",
+        "name": "Angelgate Daycare & Tutoring Centre",
+        "phone": "+1-416-792-6243"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4868765,
+          43.6548294
+        ]
+      },
+      "id": "node/6363132517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6370629260",
+        "addr:housenumber": "1911",
+        "addr:street": "Finch Avenue West",
+        "amenity": "kindergarten",
+        "level": "0",
+        "name": "Early On Child and Family Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5147408,
+          43.7571118
+        ]
+      },
+      "id": "node/6370629260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6382203659",
+        "addr:city": "Toronto",
+        "addr:housenumber": "130",
+        "addr:street": "Kennedy Avenue",
+        "amenity": "kindergarten",
+        "name": "Le Patite Ecole",
+        "phone": "+1-416-871-6145",
+        "website": "https://www.lapetiteecole.co/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4756086,
+          43.6508586
+        ]
+      },
+      "id": "node/6382203659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6491077951",
+        "addr:housenumber": "3605",
+        "addr:street": "Dundas Street West",
+        "amenity": "kindergarten",
+        "name": "Green Apple Kids"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4936124,
+          43.6655702
+        ]
+      },
+      "id": "node/6491077951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6491197982",
+        "amenity": "kindergarten",
+        "name": "Oaks n' Acorns"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4770626,
+          43.6654256
+        ]
+      },
+      "id": "node/6491197982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6491357333",
+        "amenity": "kindergarten",
+        "name": "Ontario Early Years Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4668265,
+          43.6655408
+        ]
+      },
+      "id": "node/6491357333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6532702605",
+        "amenity": "kindergarten",
+        "name": "Grand Avenue Montessori School",
+        "phone": "+1-416-247-9485",
+        "website": "https://grandavenuemontessori.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4947341,
+          43.6283724
+        ]
+      },
+      "id": "node/6532702605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6548275981",
+        "amenity": "kindergarten",
+        "name": "Dane Av Child Care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4542926,
+          43.7162012
+        ]
+      },
+      "id": "node/6548275981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6549549797",
+        "amenity": "kindergarten",
+        "name": "Ontario Early Years Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4526192,
+          43.7020373
+        ]
+      },
+      "id": "node/6549549797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6578943829",
+        "amenity": "kindergarten",
+        "name": "TNO Youth Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3461195,
+          43.705336
+        ]
+      },
+      "id": "node/6578943829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7571868240",
+        "amenity": "kindergarten",
+        "name": "Kids & Co."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4699012,
+          43.6745338
+        ]
+      },
+      "id": "node/7571868240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7598252895",
+        "amenity": "kindergarten",
+        "name": "Annex Montessori School",
+        "website": "https://www.annexmontessori.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4058578,
+          43.6658868
+        ]
+      },
+      "id": "node/7598252895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7751979185",
+        "amenity": "kindergarten",
+        "name": "Manadarin Child Care Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2858058,
+          43.7470033
+        ]
+      },
+      "id": "node/7751979185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7766322681",
+        "amenity": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2397287,
+          43.7562149
+        ]
+      },
+      "id": "node/7766322681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9823897141",
+        "addr:housenumber": "342",
+        "addr:street": "Runnymede Road",
+        "amenity": "kindergarten",
+        "name": "Stepping Stones Montessori School",
+        "phone": "+1 416-769-9719",
+        "website": "https://www.ssdaycare.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4778532,
+          43.654242
+        ]
+      },
+      "id": "node/9823897141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9918099217",
+        "amenity": "kindergarten",
+        "name": "Tiny Treasure Montessori"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5731628,
+          43.6436177
+        ]
+      },
+      "id": "node/9918099217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10601676739",
+        "amenity": "kindergarten",
+        "name": "East York Montessori"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3337498,
+          43.6930493
+        ]
+      },
+      "id": "node/10601676739"
+    }
+  ]
+}
