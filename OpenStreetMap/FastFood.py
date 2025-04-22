@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 """
-Supermarket.py
+FastFood.py
 
 Author: Anderson Wong
 
-Date: April 15, 2025
+Date: April 22, 2025
 
 Description: This is a Python program that generates RDF triples 
-for supermarkets using OpenStreetMap data in a geojson file.
+for fast food vendors using OpenStreetMap data in a geojson file.
     
 """
 
@@ -32,42 +32,51 @@ gci = rdflib.Namespace('http://ontology.eil.utoronto.ca/GCI/Foundation/GCI-Found
 code = rdflib.Namespace('https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Code/')
 gcie = rdflib.Namespace('http://ontology.eil.utoronto.ca/GCI/Education/GCI-Education.owl#')
 rdfs = rdflib.Namespace('http://www.w3.org/2000/01/rdf-schema#')
+sc = rdflib.Namespace('http://schema.org/')
+gcih = rdflib.Namespace('http://ontology.eil.utoronto.ca/GCI/Health/GCI-Health.owl#')
 contact = rdflib.Namespace('https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Contact/')
 
 # Create RDF graph
 g = Graph()
 
 # Initialize variables
-filename = "supermarket.geojson"
-amenityname = "Supermarket"
-codename = "supermarketOSMCode"
+filename = "fastfood.geojson"
+amenityname = "FastFood"
+codename = "fastFoodOSMCode"
+codeclass = "AmenityOSMCode"
 
 # Get the data
 amenity = json.loads(open(filename, encoding='utf8').read())
 
 # Generate triples
 g.add((cdt[amenityname], code.hasCode, cdt[codename]))
+g.add((cdt[codename], RDF.type, cdt[codeclass]))
+g.add((cdt[codeclass], rdfs.subClassOf, code.Code))
 
-g.add((cdt[codename], RDF.type, cdt.ShopOSMCode))
-g.add((cdt.shopOSMCode, rdfs.subClassOf, code.Code))
-
-g.add((cdt[codename], genprop.hasName, Literal("shop=supermarket")))
-g.add((cdt[codename], genprop.hasDescription, Literal("A large shop selling groceries, fresh produce, and other goods.")))
+g.add((cdt[codename], genprop.hasName, Literal("amenity=fastfood")))
+g.add((cdt[codename], genprop.hasDescription, Literal("A place concentrating on very fast counter-only service and take-away food")))
 
 # Generate triples for CompleteCommunityAmneity superclass and displayColor
-g.add((cdt.Supermarket, rdfs.subClassOf, cdt.CompleteCommunityAmenity))
-g.add((cdt.Supermarket, cdt.displayColor, Literal("#f59042")))
+g.add((cdt.FastFood, rdfs.subClassOf, cdt.CompleteCommunityAmenity))
+g.add((cdt.FastFood, cdt.displayColor, Literal("#c47233")))
 
 # Generate triples for displayProperties
-g.add((cdt.Supermarket, cdt.displayProperties, genprop.hasName))
-g.add((cdt.Supermarket, cdt.displayProperties, cdt.website))
-g.add((cdt.Supermarket, cdt.displayProperties, contact.hasTelephone))
-g.add((cdt.Supermarket, cdt.displayProperties, cdt.operator))
-g.add((cdt.Supermarket, cdt.displayProperties, cdt.osmID))
-g.add((cdt.Supermarket, cdt.displayProperties, contact.hasAddress))
-g.add((cdt.Supermarket, cdt.displayProperties, cdt.email))
-g.add((cdt.Supermarket, cdt.displayProperties, cdt.wheelchairAccess))
-g.add((cdt.Supermarket, cdt.displayProperties, cdt.openingHours))
+g.add((cdt.FastFood, cdt.displayProperties, genprop.hasName))
+g.add((cdt.FastFood, cdt.displayProperties, cdt.website))
+g.add((cdt.FastFood, cdt.displayProperties, contact.hasTelephone))
+g.add((cdt.FastFood, cdt.displayProperties, cdt.operator))
+g.add((cdt.FastFood, cdt.displayProperties, cdt.osmID))
+g.add((cdt.FastFood, cdt.displayProperties, contact.hasAddress))
+g.add((cdt.FastFood, cdt.displayProperties, cdt.email))
+g.add((cdt.FastFood, cdt.displayProperties, cdt.wheelchairAccess))
+g.add((cdt.FastFood, cdt.displayProperties, cdt.openingHours))
+g.add((cdt.FastFood, cdt.displayProperties, cdt.cuisine))
+g.add((cdt.FastFood, cdt.displayProperties, cdt.delivery))
+g.add((cdt.FastFood, cdt.displayProperties, cdt.smoking))
+g.add((cdt.FastFood, cdt.displayProperties, cdt.takeaway))
+g.add((cdt.FastFood, cdt.displayProperties, cdt.outdoorSeating))
+g.add((cdt.FastFood, cdt.displayProperties, cdt.capacity))
+g.add((cdt.FastFood, cdt.displayProperties, cdt.driveThrough))
 
 # Generate triples for each instance
 for element in amenity["features"]:
@@ -76,6 +85,8 @@ for element in amenity["features"]:
     addressname = instancename + "Address"
     telephonename = instancename + "Telephone"
     streetname = ""
+    
+    g.add((cdt[instancename], RDF.type, cdt.FastFood))
     
     g.add((cdt[instancename + "Location"], geo.asWKT, Literal(shapely.to_wkt(shapely.geometry.shape(element["geometry"])), datatype=geo.wktLiteral)))
 
@@ -86,8 +97,6 @@ for element in amenity["features"]:
     
     g.add((cdt[instancename + "Location"], RDF.type, loc.Location))
     
-    g.add((cdt[instancename], RDF.type, cdt[amenityname]))
-
     # Generate triples for optional properties
     try:    
         g.add((cdt[instancename], genprop.hasName, Literal(element['properties']['name'])))
@@ -117,7 +126,34 @@ for element in amenity["features"]:
         g.add((cdt[instancename], cdt.email, Literal(element['properties']['contact:email'])))
     except:
         pass
-
+    try:    
+        g.add((cdt[instancename], cdt.cuisine, Literal(element['properties']['cuisine'])))
+    except:
+        pass
+    try:    
+        g.add((cdt[instancename], cdt.smoking, Literal(element['properties']['smoking'])))
+    except:
+        pass
+    try:    
+        g.add((cdt[instancename], cdt.delivery, Literal(element['properties']['delivery'])))
+    except:
+        pass
+    try:    
+        g.add((cdt[instancename], cdt.takeaway, Literal(element['properties']['takeaway'])))
+    except:
+        pass
+    try:    
+        g.add((cdt[instancename], cdt.outdoorSeating, Literal(element['properties']['outdoor_seating'])))
+    except:
+        pass
+    try:    
+        g.add((cdt[instancename], cdt.capacity, Literal(element['properties']['capacity'])))
+    except:
+        pass
+    try:    
+        g.add((cdt[instancename], cdt.driveThrough, Literal(element['properties']['drive_through'])))
+    except:
+        pass
     # Generate triples for address information
     try:
         street = usaddress.tag(element['properties']['addr:street'])
