@@ -1,0 +1,578 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://ontology.eil.utoronto.ca/CDT#"
+     xml:base="http://ontology.eil.utoronto.ca/CDT"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://ontology.eil.utoronto.ca/CDT#">
+        <dc:description xml:lang="en">An ontology for representing City Digital Twin data</dc:description>
+        <dc:title xml:lang="en">City Digital Twin Ontology</dc:title>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/description -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/description"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/title -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/title"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Datatypes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.opengis.net/ont/geosparql#wktLiteral -->
+
+    <rdfs:Datatype rdf:about="http://www.opengis.net/ont/geosparql#wktLiteral"/>
+    
+
+
+    <!-- http://www.w3.org/2001/XMLSchema#time -->
+
+    <rdfs:Datatype rdf:about="http://www.w3.org/2001/XMLSchema#time"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://ontology.eil.utoronto.ca/CDT#providesService -->
+
+    <owl:ObjectProperty rdf:about="http://ontology.eil.utoronto.ca/CDT#providesService">
+        <rdfs:label xml:lang="en">Provides service</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.w3c.org/ns/org#hasSite -->
+
+    <owl:ObjectProperty rdf:about="http://www.w3c.org/ns/org#hasSite">
+        <rdfs:label xml:lang="en">Has site</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.w3c.org/ns/org#hasUnit -->
+
+    <owl:ObjectProperty rdf:about="http://www.w3c.org/ns/org#hasUnit">
+        <rdfs:label xml:lang="en">Has unit</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/hasDayOfWeek -->
+
+    <owl:ObjectProperty rdf:about="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/hasDayOfWeek">
+        <rdfs:label xml:lang="en">Has day of week</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/SpatialLoc/hasLocation -->
+
+    <owl:ObjectProperty rdf:about="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/SpatialLoc/hasLocation">
+        <rdfs:label xml:lang="en">Has location</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Code/hasCode -->
+
+    <owl:ObjectProperty rdf:about="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Code/hasCode">
+        <rdfs:label xml:lang="en">Has code</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Contact/hasTelephone -->
+
+    <owl:ObjectProperty rdf:about="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Contact/hasTelephone">
+        <rdfs:label xml:lang="en">Has telephone</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/hasIndustryType -->
+
+    <owl:ObjectProperty rdf:about="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/hasIndustryType">
+        <rdfs:label xml:lang="en">Has industry type</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/operatingHours -->
+
+    <owl:ObjectProperty rdf:about="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/operatingHours">
+        <rdfs:label xml:lang="en">Operating hours</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/orgAddress -->
+
+    <owl:ObjectProperty rdf:about="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/orgAddress">
+        <rdfs:label xml:lang="en">Org address</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://ontology.eil.utoronto.ca/CDT#hasClosingTime -->
+
+    <owl:DatatypeProperty rdf:about="http://ontology.eil.utoronto.ca/CDT#hasClosingTime">
+        <rdfs:label xml:lang="en">Has closing time</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.opengis.net/ont/geosparql#asWKT -->
+
+    <owl:DatatypeProperty rdf:about="http://www.opengis.net/ont/geosparql#asWKT">
+        <rdfs:label xml:lang="en">As WKT</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/GenericProperties/hasDescription -->
+
+    <owl:DatatypeProperty rdf:about="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/GenericProperties/hasDescription">
+        <rdfs:label xml:lang="en">Has description</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/GenericProperties/hasIdentifier -->
+
+    <owl:DatatypeProperty rdf:about="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/GenericProperties/hasIdentifier">
+        <rdfs:label xml:lang="en">Has identifier</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/GenericProperties/hasName -->
+
+    <owl:DatatypeProperty rdf:about="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/GenericProperties/hasName">
+        <rdfs:label xml:lang="en">Has name</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/hasOpeningTime -->
+
+    <owl:DatatypeProperty rdf:about="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/hasOpeningTime">
+        <rdfs:label xml:lang="en">Has opening time</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://ontology.eil.utoronto.ca/CDT#CDTCompleteCommunityAmenity -->
+
+    <owl:Class rdf:about="http://ontology.eil.utoronto.ca/CDT#CDTCompleteCommunityAmenity">
+        <rdfs:subClassOf rdf:resource="http://ontology.eil.utoronto.ca/CDT#CompleteCommunityAmenity"/>
+        <rdfs:label xml:lang="en">CDT Complete Community Amenity</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://ontology.eil.utoronto.ca/CDT#CDTForProfitOrganization -->
+
+    <owl:Class rdf:about="http://ontology.eil.utoronto.ca/CDT#CDTForProfitOrganization">
+        <rdfs:subClassOf rdf:resource="http://ontology.eil.utoronto.ca/CDT#CDTOrganization"/>
+        <rdfs:subClassOf rdf:resource="http://ontology.eil.utoronto.ca/CDT#https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/ForProfitOrganization"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontology.eil.utoronto.ca/CDT#CDTGovernmentOrganization -->
+
+    <owl:Class rdf:about="http://ontology.eil.utoronto.ca/CDT#CDTGovernmentOrganization">
+        <rdfs:subClassOf rdf:resource="http://ontology.eil.utoronto.ca/CDT#CDTOrganization"/>
+        <rdfs:subClassOf rdf:resource="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/GovernmentOrganization"/>
+        <rdfs:label xml:lang="en">CDT Government Organization</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://ontology.eil.utoronto.ca/CDT#CDTNonProfitOrganization -->
+
+    <owl:Class rdf:about="http://ontology.eil.utoronto.ca/CDT#CDTNonProfitOrganization">
+        <rdfs:subClassOf rdf:resource="http://ontology.eil.utoronto.ca/CDT#CDTOrganization"/>
+        <rdfs:subClassOf rdf:resource="http://ontology.eil.utoronto.ca/CDT#https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/NonProfitOrganization"/>
+        <rdfs:label xml:lang="en">CDT Non Profit Organization</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://ontology.eil.utoronto.ca/CDT#CDTOrganization -->
+
+    <owl:Class rdf:about="http://ontology.eil.utoronto.ca/CDT#CDTOrganization">
+        <rdfs:subClassOf rdf:resource="http://ontology.eil.utoronto.ca/CDT#https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/Organization"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.w3c.org/ns/org#hasSite"/>
+                <owl:someValuesFrom rdf:resource="http://ontology.eil.utoronto.ca/CDT#CDTSite"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label xml:lang="en">CDT Organization</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://ontology.eil.utoronto.ca/CDT#CDTSite -->
+
+    <owl:Class rdf:about="http://ontology.eil.utoronto.ca/CDT#CDTSite">
+        <rdfs:subClassOf rdf:resource="http://www.w3c.org/ns/org#Site"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/SpatialLoc/hasLocation"/>
+                <owl:someValuesFrom rdf:resource="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/SpatialLoc/Location"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label xml:lang="en">CDT Site</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://ontology.eil.utoronto.ca/CDT#CompleteCommunityAmenity -->
+
+    <owl:Class rdf:about="http://ontology.eil.utoronto.ca/CDT#CompleteCommunityAmenity">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://ontology.eil.utoronto.ca/CDT#providesService"/>
+                <owl:someValuesFrom rdf:resource="http://ontology.eil.utoronto.ca/CDT#Service"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label xml:lang="en">Complete Community Amenity</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://ontology.eil.utoronto.ca/CDT#Service -->
+
+    <owl:Class rdf:about="http://ontology.eil.utoronto.ca/CDT#Service">
+        <rdfs:label xml:lang="en">Service</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://ontology.eil.utoronto.ca/CDT#https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/ForProfitOrganization -->
+
+    <owl:Class rdf:about="http://ontology.eil.utoronto.ca/CDT#https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/ForProfitOrganization">
+        <rdfs:subClassOf rdf:resource="http://ontology.eil.utoronto.ca/CDT#https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/Organization"/>
+        <rdfs:label xml:lang="en">For Profit Organization</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://ontology.eil.utoronto.ca/CDT#https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/NonProfitOrganization -->
+
+    <owl:Class rdf:about="http://ontology.eil.utoronto.ca/CDT#https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/NonProfitOrganization">
+        <rdfs:subClassOf rdf:resource="http://ontology.eil.utoronto.ca/CDT#https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/Organization"/>
+        <rdfs:label xml:lang="en">Non Profit Organization</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://ontology.eil.utoronto.ca/CDT#https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/Organization -->
+
+    <owl:Class rdf:about="http://ontology.eil.utoronto.ca/CDT#https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/Organization">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://ontology.eil.utoronto.ca/CDT#providesService"/>
+                <owl:someValuesFrom rdf:resource="http://ontology.eil.utoronto.ca/CDT#Service"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.w3c.org/ns/org#hasUnit"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3c.org/ns/org#OrganizationalUnit"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Contact/hasTelephone"/>
+                <owl:someValuesFrom rdf:resource="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Contact/PhoneNumber"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/hasIndustryType"/>
+                <owl:someValuesFrom rdf:resource="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/IndustryType"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/operatingHours"/>
+                <owl:someValuesFrom rdf:resource="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/Operation"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/orgAddress"/>
+                <owl:someValuesFrom rdf:resource="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Contact/Address"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label xml:lang="en">Organization</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.w3c.org/ns/org#OrganizationalUnit -->
+
+    <owl:Class rdf:about="http://www.w3c.org/ns/org#OrganizationalUnit">
+        <rdfs:label xml:lang="en">Organizational Unit</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.w3c.org/ns/org#Site -->
+
+    <owl:Class rdf:about="http://www.w3c.org/ns/org#Site">
+        <rdfs:label xml:lang="en">Site</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/DayOfWeek -->
+
+    <owl:Class rdf:about="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/DayOfWeek">
+        <rdfs:label xml:lang="en">Day Of Week</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/SpatialLoc/Location -->
+
+    <owl:Class rdf:about="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/SpatialLoc/Location">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.opengis.net/ont/geosparql#asWKT"/>
+                <owl:someValuesFrom rdf:resource="http://www.opengis.net/ont/geosparql#wktLiteral"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label xml:lang="en">Location</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Code/Code -->
+
+    <owl:Class rdf:about="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Code/Code">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/GenericProperties/hasDescription"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/GenericProperties/hasName"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/GenericProperties/hasIdentifier"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label xml:lang="en">Code</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Contact/Address -->
+
+    <owl:Class rdf:about="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Contact/Address">
+        <rdfs:label xml:lang="en">Address</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Contact/PhoneNumber -->
+
+    <owl:Class rdf:about="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Contact/PhoneNumber">
+        <rdfs:label xml:lang="en">Phone Number</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/GovernmentOrganization -->
+
+    <owl:Class rdf:about="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/GovernmentOrganization">
+        <rdfs:subClassOf rdf:resource="http://ontology.eil.utoronto.ca/CDT#https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/Organization"/>
+        <rdfs:label xml:lang="en">Government Organization</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/IndustryType -->
+
+    <owl:Class rdf:about="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/IndustryType">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Code/hasCode"/>
+                <owl:someValuesFrom rdf:resource="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Code/Code"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label xml:lang="en">Industry Type</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/Operation -->
+
+    <owl:Class rdf:about="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/Operation">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/hasDayOfWeek"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onClass rdf:resource="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/DayOfWeek"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://ontology.eil.utoronto.ca/CDT#hasClosingTime"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#time"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Organization/hasOpeningTime"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#time"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label xml:lang="en">Operation</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/friday -->
+
+    <owl:NamedIndividual rdf:about="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/friday">
+        <rdf:type rdf:resource="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/DayOfWeek"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/monday -->
+
+    <owl:NamedIndividual rdf:about="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/monday">
+        <rdf:type rdf:resource="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/DayOfWeek"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/saturday -->
+
+    <owl:NamedIndividual rdf:about="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/saturday">
+        <rdf:type rdf:resource="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/DayOfWeek"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/sunday -->
+
+    <owl:NamedIndividual rdf:about="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/sunday">
+        <rdf:type rdf:resource="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/DayOfWeek"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/thursday -->
+
+    <owl:NamedIndividual rdf:about="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/thursday">
+        <rdf:type rdf:resource="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/DayOfWeek"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/tuesday -->
+
+    <owl:NamedIndividual rdf:about="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/tuesday">
+        <rdf:type rdf:resource="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/DayOfWeek"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/wednesday -->
+
+    <owl:NamedIndividual rdf:about="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/wednesday">
+        <rdf:type rdf:resource="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/RecurringEvent/DayOfWeek"/>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
